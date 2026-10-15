@@ -118,6 +118,13 @@ export function ArticleView({ page }: { page: Page }) {
             </div>
             <div className="research-hero__right">
               <div className="research-hero__right-meta">
+                <div className="mp-reviewer">
+                  <p className="mp-reviewer__label">Reviewed by</p>
+                  <div className="mp-reviewer__person">
+                    <span className="mp-reviewer__avatar" aria-hidden="true">KP</span>
+                    <span className="mp-reviewer__name">Karen Pendergrass</span>
+                  </div>
+                </div>
                 <div className="research-hero__right-meta-item">
                   <p className="mp-hero-meta">Last checked: <span>{reviewed}</span></p>
                 </div>
