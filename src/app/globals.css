@@ -235,3 +235,9 @@ body :not(i):not(svg):not(path):not([class*="fa-"]):not([class*="icon"]):not([cl
 
 /* Hero title: sentence case (the theme force-capitalises it). */
 .research-hero__center-title { text-transform: none !important; }
+
+/* Keep the grade card (hero-left) visible on laptop widths too; the theme hides
+   .research-hero__left below 1440px, but the grade is our signature element. */
+@media (min-width: 1000px) {
+  .research-hero__left { display: flex !important; }
+}
