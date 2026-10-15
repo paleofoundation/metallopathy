@@ -57,8 +57,8 @@ const INDEX = indexData as unknown as IndexEntry[];
 export const SITE = {
   name: "Metallopathy",
   tagline: "Evidence on heavy metals in people",
-  domain: "metallopathy.com",
-  url: "https://metallopathy.com",
+  domain: "www.metallopathy.com",
+  url: "https://www.metallopathy.com",
   description:
     "Metallopathy is an evidence database on metals in people, the tests used to measure them, and the chelators and binders studied to change those levels.",
   reviewed: "15 October 2026",

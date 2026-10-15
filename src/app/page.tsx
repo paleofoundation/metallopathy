@@ -6,6 +6,11 @@ import {
   getBySegmentSlug,
   GRADE_META,
 } from "@/lib/site";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
 
 const CARD_FEATURED: Record<string, { slugs: string[]; num: string }> = {
   metals: { num: "01", slugs: ["lead", "mercury", "arsenic"] },

@@ -81,7 +81,14 @@ export function ArticleView({ page }: { page: Page }) {
     <div className="site-content flex">
       <main className="main">
         {page.jsonld ? (
-          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(page.jsonld) }} />
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              // Self-referencing URLs in the captured JSON-LD use the apex host;
+              // rewrite them to the canonical www host (external citation URLs are untouched).
+              __html: JSON.stringify(page.jsonld).replaceAll("https://metallopathy.com", SITE.url),
+            }}
+          />
         ) : null}
         {/* ---- Hero ---- */}
         <div className="research-hero">
