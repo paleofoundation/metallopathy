@@ -1,0 +1,86 @@
+{
+  "slug": "foods",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/foods",
+  "kicker": "Detox and binders",
+  "title": "Which foods help detox heavy metals?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A general food detox",
+    "basis": "No qualifying trial of a general diet was located. Specific foods are graded on their own pages."
+  },
+  "answerHtml": "<p>No trial of a general detox diet was located. Folic acid increased arsenic methylation in two randomized trials. Selenium trials increased urine mercury or urine arsenic. Fibre trials reported small changes in plasma arsenic or blood lead in special populations. Cilantro did not change blood lead in one small trial. Those are specific outcomes, not a food list that clears stored metal.</p>",
+  "sections": [
+    {
+      "heading": "Pages with food or nutrient trials",
+      "html": "<ul> <li> <a href=\"/protocols/folic-acid/\">Folic acid</a>: grade A for arsenic methylation. </li><li> <a href=\"/protocols/selenium/\">Selenium</a>: grade B for urinary excretion. </li><li> <a href=\"/protocols/fibre/\">Fibre</a>: grade C for blood or plasma levels in special populations. </li><li> <a href=\"/protocols/cilantro/\">Cilantro</a>: grade C, one null trial. </li> </ul>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/folic-acid/",
+      "text": "Folic acid"
+    },
+    {
+      "href": "/protocols/selenium/",
+      "text": "Selenium"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1093/ajcn/84.5.1093",
+      "text": "Gamble et al. 2006 folic acid trial, PMID 17093162"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.envres.2019.108561",
+      "text": "Smits et al. 2019 selenium lentils, PMID 31299617"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/\">Heavy Metal Index: metal registry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Which foods help detox heavy metals? | Metallopathy",
+    "description": "No general food-detox trial was located. Separate trials of folic acid, selenium, fibre, and cilantro have their own grades.",
+    "canonical": "https://metallopathy.com/protocols/foods/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Which foods help detox heavy metals?",
+        "name": "Which foods help detox heavy metals?",
+        "description": "No general food-detox trial was located. Separate trials of folic acid, selenium, fibre, and cilantro have their own grades.",
+        "url": "https://metallopathy.com/protocols/foods/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1093/ajcn/84.5.1093",
+          "https://doi.org/10.1016/j.envres.2019.108561"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Which foods help detox heavy metals?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No trial of a general detox diet was located. Folic acid increased arsenic methylation in two randomized trials. Selenium trials increased urine mercury or urine arsenic. Fibre trials reported small changes in plasma arsenic or blood lead in special populations. Cilantro did not change blood lead in one small trial. Those are specific outcomes, not a food list that clears stored metal."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

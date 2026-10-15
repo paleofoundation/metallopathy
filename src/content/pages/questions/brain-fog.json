@@ -1,0 +1,77 @@
+{
+  "slug": "brain-fog",
+  "segment": "questions",
+  "pageType": "other",
+  "pageSlug": "questions/brain-fog",
+  "kicker": "Symptoms",
+  "title": "Can heavy metals cause brain fog / depersonalization?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "Brain fog or depersonalization",
+    "basis": "No qualifying human study was located."
+  },
+  "answerHtml": "<p>No study in this corpus tested brain fog or depersonalization as an outcome of metal exposure or of a detox protocol. Neurodevelopmental endpoints for lead and methylmercury are different outcomes and are described on those metal pages. They are not a finding about brain fog.</p>",
+  "sections": [
+    {
+      "heading": "Nearby evidence that is a different question",
+      "html": "<p> The TLC trial found no cognitive benefit from succimer in children with blood lead of 20 to 44 µg/dL. That is a null cognitive result at those levels, not a study of brain fog in adults. <a href=\"https://doi.org/10.1056/NEJM200105103441902\">Rogan 2001</a>. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/symptoms/",
+      "text": "Symptoms"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1056/NEJM200105103441902",
+      "text": "Rogan et al. 2001, doi:10.1056/NEJM200105103441902"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/health/\">Heavy Metal Index health pages</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Can heavy metals cause brain fog / depersonalization? | Metallopathy",
+    "description": "No study of brain fog or depersonalization as a metal outcome was located in this corpus.",
+    "canonical": "https://metallopathy.com/questions/brain-fog/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Can heavy metals cause brain fog / depersonalization?",
+        "name": "Can heavy metals cause brain fog / depersonalization?",
+        "description": "No study of brain fog or depersonalization as a metal outcome was located in this corpus.",
+        "url": "https://metallopathy.com/questions/brain-fog/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1056/NEJM200105103441902"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can heavy metals cause brain fog / depersonalization?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No study in this corpus tested brain fog or depersonalization as an outcome of metal exposure or of a detox protocol. Neurodevelopmental endpoints for lead and methylmercury are different outcomes and are described on those metal pages. They are not a finding about brain fog."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "lead",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/lead",
+  "kicker": "Metals",
+  "title": "What does the evidence say about lead in people?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Low-level lead and the lack of a current tolerable intake",
+    "basis": "CDC, EFSA, EPA, and ATSDR each address this from human data. There is no set of randomized trials, so the grade is not A."
+  },
+  "answerHtml": "<p>CDC states that no safe blood lead level in children has been identified, and it set a blood lead reference value of 3.5 µg/dL that is a population marker, not a toxicity threshold. EFSA in 2010 did not set a new tolerable intake and published benchmark doses for developmental neurotoxicity, blood pressure, and kidney effects. EPA has not estimated an oral reference dose.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> CDC updated the blood lead reference value to 3.5 µg/dL. The saved MMWR page says 2.5 percent of U.S. children aged 1 to 5 years have a blood lead level at or above 3.5 µg/dL. CDC states that the value is not a health-based standard or a toxicity threshold, and that no safe blood lead level in children exists. The same page says venous blood is less likely to be contaminated than a skin prick. <a href=\"https://doi.org/10.15585/mmwr.mm7043a4\">MMWR 2021</a>. </p><p> EFSA in 2010, as recorded in the research corpus from the EFSA abstract, used a BMDL01 of 12 µg/L blood lead for developmental neurotoxicity, a BMDL01 of 36 µg/L for systolic blood pressure, and a BMDL10 of 15 µg/L for chronic kidney disease. The dietary equivalents recorded there are 0.50, 1.50, and 0.63 µg/kg body weight per day. EFSA judged the previous PTWI of 25 µg/kg body weight per week no longer appropriate and set no new health-based guidance value. <a href=\"https://doi.org/10.2903/j.efsa.2010.1570\">EFSA 2010</a>. </p><p> The ATSDR toxicological profile for lead (August 2020) derived no minimal risk levels. The corpus records, as checked against that profile, a blood elimination half-time of about 1 week to 2 years depending on age and exposure, and a bone half-time of about 1 to 2 decades, with bone holding most of the body burden. <a href=\"https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf\">ATSDR lead profile</a>. </p><p> EPA IRIS lists the oral reference dose for inorganic lead as information reviewed but value not estimated, last updated 8 July 2004. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=277\">EPA IRIS lead</a>. IARC, as cited by the ATSDR profile and recorded in the corpus, classifies inorganic lead compounds in Group 2A. The corpus records the evidence for organic lead compounds as inadequate, not as a Group 3 classification. <a href=\"https://publications.iarc.who.int/105\">IARC volume 87</a>. </p><p> A provisional WHO drinking-water value of 10 µg/L is recorded in the corpus as checked via the ATSDR 2020 profile. <a href=\"https://www.who.int/publications/i/item/9789240045064\">WHO GDWQ</a>. An FDA interim reference level was not opened in the corpus and is not stated here. </p>"
+    },
+    {
+      "heading": "Blood lead in the U.S. population",
+      "html": "<p> These figures were read from the saved CDC National Report table for blood lead. Units are µg/dL. They describe the total U.S. population in NHANES 2017 to 2018 unless a row says otherwise. They are not toxicity thresholds. </p>  <div class=\"table-wrap\"> <table> <caption>Blood lead, NHANES, total population unless noted (µg/dL)</caption> <thead> <tr> <th scope=\"col\">Survey years</th><th scope=\"col\">Geometric mean (95% CI)</th><th scope=\"col\">50th (95% CI)</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> 2017 to 2018 </td><td> 0.753 (0.723 to 0.784) </td><td> 0.730 (0.690 to 0.770) </td><td> 2.41 (2.24 to 2.67) </td><td> 7513 </td> </tr><tr> <td> 2015 to 2016 </td><td> 0.820 (0.772 to 0.872) </td><td> 0.780 (0.740 to 0.840) </td><td> 2.75 (2.50 to 2.98) </td><td> 4988 </td> </tr><tr> <td> 2013 to 2014 </td><td> 0.858 (0.813 to 0.906) </td><td> 0.830 (0.780 to 0.870) </td><td> 2.81 (2.49 to 3.14) </td><td> 5215 </td> </tr><tr> <td> 2011 to 2012 </td><td> 0.973 (0.916 to 1.04) </td><td> 0.930 (0.880 to 0.980) </td><td> 3.16 (2.77 to 3.68) </td><td> 7920 </td> </tr><tr> <td> Ages 1 to 5, 2017 to 2018 </td><td> 0.670 (0.600 to 0.748) </td><td> 0.620 (0.540 to 0.740) </td><td> 2.02 (1.67 to 2.44) </td><td> 629 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/child-blood-lead/",
+      "text": "My child's blood lead level is elevated"
+    },
+    {
+      "href": "/protocols/edta/",
+      "text": "EDTA chelation"
+    },
+    {
+      "href": "/protocols/dmsa/",
+      "text": "DMSA (succimer)"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.15585/mmwr.mm7043a4",
+      "text": "CDC MMWR 2021;70(43), blood lead reference value, doi:10.15585/mmwr.mm7043a4"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2010.1570",
+      "text": "EFSA 2010 lead opinion, doi:10.2903/j.efsa.2010.1570"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf",
+      "text": "ATSDR Toxicological Profile for Lead, August 2020"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=277",
+      "text": "EPA IRIS, Lead and compounds (inorganic), substance 277"
+    },
+    {
+      "href": "https://publications.iarc.who.int/105",
+      "text": "IARC Monographs volume 87"
+    },
+    {
+      "href": "https://www.who.int/publications/i/item/9789240045064",
+      "text": "WHO Guidelines for drinking-water quality, 4th edition incorporating the first and second addenda"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report on Human Exposure to Environmental Chemicals, data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/lead\">Heavy Metal Index: Lead</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about lead in people? | Metallopathy",
+    "description": "Lead reference values from CDC, EFSA, EPA IRIS, and ATSDR, plus NHANES 2017 to 2018 blood lead percentiles read from the saved CDC table.",
+    "canonical": "https://metallopathy.com/metals/lead/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about lead in people?",
+        "name": "What does the evidence say about lead in people?",
+        "description": "Lead reference values from CDC, EFSA, EPA IRIS, and ATSDR, plus NHANES 2017 to 2018 blood lead percentiles read from the saved CDC table.",
+        "url": "https://metallopathy.com/metals/lead/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.15585/mmwr.mm7043a4",
+          "https://doi.org/10.2903/j.efsa.2010.1570",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=277",
+          "https://publications.iarc.who.int/105",
+          "https://www.who.int/publications/i/item/9789240045064",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about lead in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "CDC states that no safe blood lead level in children has been identified, and it set a blood lead reference value of 3.5 µg/dL that is a population marker, not a toxicity threshold. EFSA in 2010 did not set a new tolerable intake and published benchmark doses for developmental neurotoxicity, blood pressure, and kidney effects. EPA has not estimated an oral reference dose."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

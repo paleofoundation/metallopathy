@@ -1,0 +1,72 @@
+{
+  "slug": "seaweed",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/seaweed",
+  "kicker": "Other exposures",
+  "title": "Are cadmium, lead, arsenic, or mercury found in seaweed?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A measured level for this category",
+    "basis": "No verified measurement or qualifying human study is in this corpus."
+  },
+  "answerHtml": "<p>The draft corpus cites an EFSA 2023 opinion on seaweed (doi:10.2903/j.efsa.2023.7798) and does not mark the occurrence claim as checked against a saved file. No seaweed concentration is stated. The DOI is recorded so the gap is visible.</p>",
+  "sections": [
+    {
+      "heading": "What is not available",
+      "html": "<p> Occurrence values from that opinion were not verified here. </p><p> Related evidence, where it exists, is on the linked pages. Those pages do not fill this gap. </p>"
+    }
+  ],
+  "related": [],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2023.7798",
+      "text": "EFSA 2023 seaweed opinion record, doi:10.2903/j.efsa.2023.7798 (not re-extracted)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/products/seaweed-kelp-foods\">Heavy Metal Index: seaweed and kelp foods</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Are cadmium, lead, arsenic, or mercury found in seaweed? | Metallopathy",
+    "description": "An EFSA seaweed opinion is cited in the draft corpus and was not in the saved sources. No occurrence number is published.",
+    "canonical": "https://metallopathy.com/questions/seaweed/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Are cadmium, lead, arsenic, or mercury found in seaweed?",
+        "name": "Are cadmium, lead, arsenic, or mercury found in seaweed?",
+        "description": "An EFSA seaweed opinion is cited in the draft corpus and was not in the saved sources. No occurrence number is published.",
+        "url": "https://metallopathy.com/questions/seaweed/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2023.7798"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are cadmium, lead, arsenic, or mercury found in seaweed?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The draft corpus cites an EFSA 2023 opinion on seaweed (doi:10.2903/j.efsa.2023.7798) and does not mark the occurrence claim as checked against a saved file. No seaweed concentration is stated. The DOI is recorded so the gap is visible."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "bath",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/bath",
+  "kicker": "Detox and binders",
+  "title": "Does a heavy metal detox bath / foot bath work (incl. for kids)?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "Baths and foot baths",
+    "basis": "No qualifying human study was located."
+  },
+  "answerHtml": "<p>No human trial of a detox bath or foot bath, for adults or children, was located. Sauna studies are a different exposure. They found metals in sweat and did not show a health benefit or a measured drop in body burden. A bath is not graded.</p>",
+  "sections": [
+    {
+      "heading": "Nearest evidence",
+      "html": "<p> The sauna page covers Genuis 2011 and Sears 2012. Those studies are not bath trials and are not evidence about children. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/sauna/",
+      "text": "Sauna and sweat"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1007/s00244-010-9611-5",
+      "text": "Genuis et al. 2011 sweat study, PMID 21057782"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/\">Heavy Metal Index: metal registry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does a heavy metal detox bath / foot bath work (incl. for kids)? | Metallopathy",
+    "description": "No trial of a bath or foot bath was located. Sauna studies measured metals in sweat and did not show a clinical benefit.",
+    "canonical": "https://metallopathy.com/protocols/bath/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does a heavy metal detox bath / foot bath work (incl. for kids)?",
+        "name": "Does a heavy metal detox bath / foot bath work (incl. for kids)?",
+        "description": "No trial of a bath or foot bath was located. Sauna studies measured metals in sweat and did not show a clinical benefit.",
+        "url": "https://metallopathy.com/protocols/bath/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1007/s00244-010-9611-5"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does a heavy metal detox bath / foot bath work (incl. for kids)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No human trial of a detox bath or foot bath, for adults or children, was located. Sauna studies are a different exposure. They found metals in sweat and did not show a health benefit or a measured drop in body burden. A bath is not graded."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

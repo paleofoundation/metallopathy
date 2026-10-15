@@ -1,0 +1,96 @@
+{
+  "slug": "dmsa",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/dmsa",
+  "kicker": "Detox and binders",
+  "title": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Lowering blood lead in children",
+    "basis": "One large randomized trial (TLC, n=780) showed lower blood lead."
+  },
+  "answerHtml": "<p>In children with blood lead of 20 to 44 µg/dL, the TLC randomized trial found that succimer lowered blood lead and did not improve cognition, behavior, or neuropsychological scores. A Cochrane review of chelation for autism found only one randomized trial and no evidence of an effect on symptoms. One small randomized trial in chronic arsenicosis found no significant benefit versus placebo.</p>",
+  "sections": [
+    {
+      "heading": "Studies",
+      "html": "<div class=\"table-wrap\"> <table> <caption>Human studies of DMSA in this corpus. Not a dosing guide.</caption> <thead> <tr> <th scope=\"col\">Study</th><th scope=\"col\">Design</th><th scope=\"col\">Result</th> </tr> </thead> <tbody> <tr> <td> <a href=\"https://doi.org/10.1056/NEJM200105103441902\">Rogan 2001 TLC</a> </td><td> RCT, placebo, 780 children aged 12 to 33 months, blood lead 20 to 44 µg/dL </td><td> Lowered blood lead. No improvement in cognition, behavior, or neuropsychology at 36 months. Follow-up to age 7 also null. PMID 11346806. </td> </tr><tr> <td> <a href=\"https://doi.org/10.1186/1472-6904-9-16\">Adams 2009</a> </td><td> Open first round, then randomized rounds, children with autism </td><td> Authors state the first round compromised the placebo comparison. PMID 19852789. </td> </tr><tr> <td> <a href=\"https://doi.org/10.1002/14651858.CD010766.pub2\">James 2015 Cochrane</a> </td><td> Systematic review, 1 RCT included </td><td> No evidence that multiple rounds of oral DMSA affected autism symptoms. Authors: risks currently outweigh proven benefits. PMID 26114777. </td> </tr><tr> <td> <a href=\"https://doi.org/10.3109/15563659809162616\">Guha Mazumder 1998</a> </td><td> Double-blind RCT, 11 versus 10 adults with chronic arsenicosis </td><td> No significant clinical, biochemical, or histologic benefit versus placebo. PMID 9865236. </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/autism/",
+      "text": "Are heavy metals linked to autism?"
+    },
+    {
+      "href": "/tests/provoked-urine/",
+      "text": "Provoked urine testing"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1056/NEJM200105103441902",
+      "text": "Rogan et al. 2001, doi:10.1056/NEJM200105103441902, PMID 11346806"
+    },
+    {
+      "href": "https://doi.org/10.1186/1472-6904-9-16",
+      "text": "Adams et al. 2009, doi:10.1186/1472-6904-9-16, PMID 19852789"
+    },
+    {
+      "href": "https://doi.org/10.1002/14651858.CD010766.pub2",
+      "text": "James et al. 2015 Cochrane review, doi:10.1002/14651858.CD010766.pub2, PMID 26114777"
+    },
+    {
+      "href": "https://doi.org/10.3109/15563659809162616",
+      "text": "Guha Mazumder et al. 1998, doi:10.3109/15563659809162616, PMID 9865236"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/lead\">Heavy Metal Index: Lead</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis? | Metallopathy",
+    "description": "The TLC trial lowered blood lead and did not improve cognition. A Cochrane review found no evidence of benefit in autism. One small trial in arsenicosis was null.",
+    "canonical": "https://metallopathy.com/protocols/dmsa/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?",
+        "name": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?",
+        "description": "The TLC trial lowered blood lead and did not improve cognition. A Cochrane review found no evidence of benefit in autism. One small trial in arsenicosis was null.",
+        "url": "https://metallopathy.com/protocols/dmsa/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1056/NEJM200105103441902",
+          "https://doi.org/10.1186/1472-6904-9-16",
+          "https://doi.org/10.1002/14651858.CD010766.pub2",
+          "https://doi.org/10.3109/15563659809162616"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In children with blood lead of 20 to 44 µg/dL, the TLC randomized trial found that succimer lowered blood lead and did not improve cognition, behavior, or neuropsychological scores. A Cochrane review of chelation for autism found only one randomized trial and no evidence of an effect on symptoms. One small randomized trial in chronic arsenicosis found no significant benefit versus placebo."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

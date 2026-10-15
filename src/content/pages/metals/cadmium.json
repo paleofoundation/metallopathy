@@ -1,0 +1,106 @@
+{
+  "slug": "cadmium",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/cadmium",
+  "kicker": "Metals",
+  "title": "What does the evidence say about cadmium in people?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Cadmium and kidney effects",
+    "basis": "EFSA and EPA both use a renal endpoint, and IARC classifies cadmium and its compounds in Group 1. The ATSDR oral value is from a draft profile. Not graded A."
+  },
+  "answerHtml": "<p>EFSA set a cadmium tolerable weekly intake of 2.5 µg/kg body weight from a urinary cadmium reference point of 1 µg/g creatinine, with kidney tubular effects as the critical endpoint. EPA&#39;s oral reference doses, last updated in 1989, are 0.0005 mg/kg/day for water and 0.001 mg/kg/day for food, based on proteinuria. The ATSDR profile now posted is an October 2026 draft, so its minimal risk levels are provisional.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> EFSA in 2009, recorded in the corpus from the opinion abstract, set a tolerable weekly intake of 2.5 µg/kg body weight, derived from urinary cadmium of 1 µg/g creatinine. <a href=\"https://doi.org/10.2903/j.efsa.2009.980\">EFSA 2009</a>. </p><p> EPA IRIS, last updated 1 October 1989, lists an oral reference dose of 5 x 10^-4 mg/kg/day for water and 1 x 10^-3 mg/kg/day for food, both for significant proteinuria. The inhalation unit risk is 1.8 x 10^-3 per µg/m3. The 1987 weight of evidence is B1, probable human carcinogen, based on limited human evidence. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=141\">EPA IRIS cadmium</a>. </p><p> The saved ATSDR cadmium file is labeled Draft for Public Comment, October 2026. The corpus records these draft minimal risk levels as checked against it: acute oral 0.002 mg/kg/day; no intermediate oral value; chronic oral 0.0003 mg/kg/day (0.3 µg/kg/day) from human renal data; acute inhalation 0.000002 mg/m3; chronic inhalation 0.0001 mg/m3. A 2012 final value of 0.1 µg/kg/day was not verified and is not used. The corpus also records a whole-body half-time of 20 to 30 years, with the kidney as the main storage organ. <a href=\"https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf\">ATSDR cadmium draft</a>. </p><p> IARC classifies cadmium and cadmium compounds in Group 1, as cited by the ATSDR draft and recorded in the corpus. <a href=\"https://publications.iarc.who.int/120\">IARC volume 100C</a>. A WHO drinking-water value of 3 µg/L is recorded in the corpus as checked via that draft. <a href=\"https://www.who.int/publications/i/item/9789240045064\">WHO GDWQ</a>. A JECFA monthly intake recorded only as a citation inside the draft is not restated here as a separate extraction. </p>"
+    },
+    {
+      "heading": "NHANES 2017 to 2018",
+      "html": "<p> Read from the saved CDC tables. Total U.S. population. Not toxicity thresholds. Urine cadmium is unadjusted µg/L, not µg/g creatinine. The EFSA reference point uses creatinine adjustment, so these urine percentiles are not that reference point. </p>  <div class=\"table-wrap\"> <table> <caption>Cadmium, NHANES 2017 to 2018, total population</caption> <thead> <tr> <th scope=\"col\">Analyte</th><th scope=\"col\">Geometric mean (95% CI)</th><th scope=\"col\">50th</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> Blood cadmium (µg/L) </td><td> 0.241 (0.229 to 0.253) </td><td> 0.220 (0.210 to 0.230) </td><td> 1.28 (1.04 to 1.52) </td><td> 7513 </td> </tr><tr> <td> Urine cadmium (µg/L) </td><td> 0.132 (0.122 to 0.144) </td><td> 0.137 (0.119 to 0.160) </td><td> 0.832 (0.732 to 0.898) </td><td> 2808 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/cadmium-chocolate-sunflower/",
+      "text": "Is cadmium in chocolate or sunflower seeds a concern?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2009.980",
+      "text": "EFSA 2009 cadmium opinion, doi:10.2903/j.efsa.2009.980"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=141",
+      "text": "EPA IRIS, Cadmium, substance 141"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf",
+      "text": "ATSDR Toxicological Profile for Cadmium, draft for public comment, October 2026"
+    },
+    {
+      "href": "https://publications.iarc.who.int/120",
+      "text": "IARC Monographs volume 100C"
+    },
+    {
+      "href": "https://www.who.int/publications/i/item/9789240045064",
+      "text": "WHO Guidelines for drinking-water quality"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/cadmium\">Heavy Metal Index: Cadmium</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about cadmium in people? | Metallopathy",
+    "description": "Cadmium tolerable intake from EFSA, EPA reference doses for food and water, the ATSDR 2026 draft profile, and NHANES blood and urine cadmium.",
+    "canonical": "https://metallopathy.com/metals/cadmium/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about cadmium in people?",
+        "name": "What does the evidence say about cadmium in people?",
+        "description": "Cadmium tolerable intake from EFSA, EPA reference doses for food and water, the ATSDR 2026 draft profile, and NHANES blood and urine cadmium.",
+        "url": "https://metallopathy.com/metals/cadmium/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2009.980",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=141",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf",
+          "https://publications.iarc.who.int/120",
+          "https://www.who.int/publications/i/item/9789240045064",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about cadmium in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EFSA set a cadmium tolerable weekly intake of 2.5 µg/kg body weight from a urinary cadmium reference point of 1 µg/g creatinine, with kidney tubular effects as the critical endpoint. EPA's oral reference doses, last updated in 1989, are 0.0005 mg/kg/day for water and 0.001 mg/kg/day for food, based on proteinuria. The ATSDR profile now posted is an October 2026 draft, so its minimal risk levels are provisional."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "methodology",
+  "segment": "methodology",
+  "pageType": "other",
+  "pageSlug": "methodology",
+  "kicker": "Methodology",
+  "title": "What does an evidence grade from A to F mean?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "This rubric as a research result",
+    "basis": "The rubric is a method. It is not itself a trial."
+  },
+  "answerHtml": "<p>An A means several consistent human randomized trials for that outcome. An F means human evidence of no benefit for that outcome, or human evidence of harm. Grades between those follow study design, whether more than one human source agrees, and whether the result was replicated. If no qualifying human study was found, the grade is Not graded, which is not a finding of no effect.</p>",
+  "sections": [
+    {
+      "heading": "Rubric",
+      "html": "<p> Grades attach to an outcome, not to a substance in the abstract. Succimer has a B for lowering blood lead and an F for cognitive benefit in the same trial. A chelator can change a lab number without changing health. </p><p> Folic acid is the only A. Two randomized trials agreed on arsenic methylation. A third paper is the same trial as the second and is not counted as a new replication. </p>  <div class=\"table-wrap\"> <table> <caption>Grades used on every outcome on this site</caption> <thead> <tr> <th scope=\"col\">Grade</th><th scope=\"col\">Meaning</th> </tr> </thead> <tbody> <tr> <td> A </td><td> Several consistent human randomized controlled trials for that outcome. </td> </tr><tr> <td> B </td><td> At least one good human randomized trial, or consistent human evidence from more than one independent agency or controlled study. Agency opinions are not graded A. </td> </tr><tr> <td> C </td><td> A small or uncontrolled human study, a single limited trial, or one agency document. </td> </tr><tr> <td> D </td><td> Case reports only, or conflicting human evidence. </td> </tr><tr> <td> F </td><td> Human evidence of no benefit for the stated outcome, or human evidence of harm. </td> </tr><tr> <td> Not graded </td><td> No qualifying human study in this corpus. This is not evidence of no effect. </td> </tr> </tbody> </table> </div>"
+    },
+    {
+      "heading": "Numbers",
+      "html": "<p> Every number on a page is tied to a named source with a DOI or an official URL. Where a draft table in the research corpus disagreed with a saved CDC PDF, the PDF figure is the one published. That happened for several urine percentiles. Blood lead, blood cadmium, blood mercury, blood methylmercury, blood cobalt, and blood chromium in the draft matched the saved tables and are published. </p><p> Claims marked unverified in the corpus, including some WHO drinking-water values, some half-time wording, and brand-level food tests, are not published. They are listed in the repository file research/unsourced-claims.md, which is not a page of this site. </p>"
+    },
+    {
+      "heading": "What this site does not do",
+      "html": "<p> It does not diagnose, prescribe, or rank brands. The Heavy Metal Index is cited by link. Heavy Metal Tested and Certified is cited for its public register. On 15 October 2026 that register listed no licensees. </p>"
+    }
+  ],
+  "related": [],
+  "sources": [
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables, used to check NHANES figures"
+    },
+    {
+      "href": "https://heavymetalindex.com/",
+      "text": "Heavy Metal Index"
+    },
+    {
+      "href": "https://heavymetalcertified.com/brands",
+      "text": "Heavy Metal Tested and Certified register"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/\">Heavy Metal Index</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does an evidence grade from A to F mean? | Metallopathy",
+    "description": "The grading rubric for Metallopathy: what A, B, C, D, F, and Not graded mean, and how NHANES figures were checked against saved CDC tables.",
+    "canonical": "https://metallopathy.com/methodology/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "headline": "What does an evidence grade from A to F mean?",
+        "name": "What does an evidence grade from A to F mean?",
+        "description": "The grading rubric for Metallopathy: what A, B, C, D, F, and Not graded mean, and how NHANES figures were checked against saved CDC tables.",
+        "url": "https://metallopathy.com/methodology/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.cdc.gov/exposurereport/data_tables.html",
+          "https://heavymetalindex.com/",
+          "https://heavymetalcertified.com/brands"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does an evidence grade from A to F mean?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An A means several consistent human randomized trials for that outcome. An F means human evidence of no benefit for that outcome, or human evidence of harm. Grades between those follow study design, whether more than one human source agrees, and whether the result was replicated. If no qualifying human study was found, the grade is Not graded, which is not a finding of no effect."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "mcp",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/mcp",
+  "kicker": "Detox and binders",
+  "title": "Is modified citrus pectin an effective heavy metal binder?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "Short-term urinary excretion",
+    "basis": "One uncontrolled pilot. The lead result was not statistically significant at p<0.05."
+  },
+  "answerHtml": "<p>An uncontrolled 6-day pilot reported higher 24-hour urinary arsenic, cadmium, and lead after modified citrus pectin. Arsenic rose 130 percent on day 1 and cadmium 150 percent on day 6. The lead increase was 560 percent with p&lt;0.08, which is above a conventional 0.05 cutoff. The sample size was not stated in the abstract, so it is not given here. There is no control group and no clinical outcome.</p>",
+  "sections": [
+    {
+      "heading": "Study",
+      "html": "<p> Eliaz and colleagues (2006), PMID 16835878, doi:10.1002/ptr.1953. The lead author was affiliated with a clinic, and the abstract names a product. <a href=\"https://pubmed.ncbi.nlm.nih.gov/16835878/\">PubMed</a>. </p>"
+    }
+  ],
+  "related": [],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1002/ptr.1953",
+      "text": "Eliaz et al. 2006, doi:10.1002/ptr.1953, PMID 16835878"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/\">Heavy Metal Index: metal registry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Is modified citrus pectin an effective heavy metal binder? | Metallopathy",
+    "description": "One uncontrolled pilot reported higher 24-hour urine arsenic, cadmium, and lead over 6 days. The sample size was not in the abstract.",
+    "canonical": "https://metallopathy.com/protocols/mcp/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Is modified citrus pectin an effective heavy metal binder?",
+        "name": "Is modified citrus pectin an effective heavy metal binder?",
+        "description": "One uncontrolled pilot reported higher 24-hour urine arsenic, cadmium, and lead over 6 days. The sample size was not in the abstract.",
+        "url": "https://metallopathy.com/protocols/mcp/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1002/ptr.1953"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is modified citrus pectin an effective heavy metal binder?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "An uncontrolled 6-day pilot reported higher 24-hour urinary arsenic, cadmium, and lead after modified citrus pectin. Arsenic rose 130 percent on day 1 and cadmium 150 percent on day 6. The lead increase was 560 percent with p<0.08, which is above a conventional 0.05 cutoff. The sample size was not stated in the abstract, so it is not given here. There is no control group and no clinical outcome."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

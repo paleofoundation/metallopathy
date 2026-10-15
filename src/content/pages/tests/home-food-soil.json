@@ -1,0 +1,77 @@
+{
+  "slug": "home-food-soil",
+  "segment": "tests",
+  "pageType": "test",
+  "pageSlug": "tests/home-food-soil",
+  "kicker": "Testing",
+  "title": "How do I test food/soil for heavy metals at home?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "An at-home food or soil metal test",
+    "basis": "No qualifying method-validation study was located in this corpus."
+  },
+  "answerHtml": "<p>This corpus does not contain a validated at-home method for measuring metals in food or soil, and it does not contain performance data for a consumer kit. No detection limit, false-result rate, or pass-fail number is stated, because none was verified. Laboratory methods such as ICP-MS are the methods named by FDA for cobalt and chromium in blood, which is a different sample.</p>",
+  "sections": [
+    {
+      "heading": "What is not available",
+      "html": "<p> Questions about testing water, soil, and food at home are in the question set. The saved sources do not evaluate a home kit. Naming a product would go beyond those sources. Certified laboratory testing is a different activity from a home test, and this page does not list laboratories. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/water-filters/",
+      "text": "Which water filter removes lead?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.fda.gov/medical-devices/metal-metal-hip-implants/information-about-soft-tissue-imaging-and-metal-ion-testing",
+      "text": "FDA metal-ion testing methods for cobalt and chromium in whole blood (a clinical specimen, not food or soil)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/testing/icp-ms\">Heavy Metal Index: ICP-MS testing</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "How do I test food/soil for heavy metals at home? | Metallopathy",
+    "description": "No validated at-home method for food or soil metals was located in this corpus. The page does not invent a kit, a cutoff, or a brand.",
+    "canonical": "https://metallopathy.com/tests/home-food-soil/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "How do I test food/soil for heavy metals at home?",
+        "name": "How do I test food/soil for heavy metals at home?",
+        "description": "No validated at-home method for food or soil metals was located in this corpus. The page does not invent a kit, a cutoff, or a brand.",
+        "url": "https://metallopathy.com/tests/home-food-soil/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.fda.gov/medical-devices/metal-metal-hip-implants/information-about-soft-tissue-imaging-and-metal-ion-testing"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I test food/soil for heavy metals at home?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This corpus does not contain a validated at-home method for measuring metals in food or soil, and it does not contain performance data for a consumer kit. No detection limit, false-result rate, or pass-fail number is stated, because none was verified. Laboratory methods such as ICP-MS are the methods named by FDA for cobalt and chromium in blood, which is a different sample."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

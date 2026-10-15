@@ -1,0 +1,91 @@
+{
+  "slug": "interpreting-results",
+  "segment": "tests",
+  "pageType": "test",
+  "pageSlug": "tests/interpreting-results",
+  "kicker": "Testing",
+  "title": "Are my heavy metal lab levels harmful (interpreting results)?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "Reading one lab number as proof of harm",
+    "basis": "CDC distinguishes the lead reference value from a toxicity threshold. Other metals have population tables or agency intake values, not a verified individual diagnostic cutoff in this corpus."
+  },
+  "answerHtml": "<p>A percentile from NHANES says where a result sits in the U.S. survey. It does not say the result is harmful. CDC states that the blood lead reference value of 3.5 µg/dL is not a toxicity threshold. For most other metals in this corpus, a verified cutoff that turns one laboratory number into a diagnosis was not found.</p>",
+  "sections": [
+    {
+      "heading": "How to read the tables on this site",
+      "html": "<p> Geometric means and percentiles on the metal pages come from the saved CDC National Report tables for NHANES, mostly 2017 to 2018, total population, unadjusted. CDC&#39;s own exposure report presents them as population biomonitoring, and the lead MMWR says the reference value is not a health-based standard. <a href=\"https://doi.org/10.15585/mmwr.mm7043a4\">MMWR 2021</a>. </p><p> EFSA intake values and EPA reference doses are toxicological guidance for populations or risk assessment. They are not a laboratory&#39;s reference interval for one person. Where a value was missing or disagreed with the saved PDF, this site says the evidence is not available rather than printing the draft number. </p><p> ACMT says not to order nonspecific metal screens for nonspecific symptoms without excessive exposure, because detectable levels are common and an out-of-range flag can create concern without a diagnosis. Diagnosis, in that statement, needs an exposure history and findings that fit the metal. <a href=\"https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf\">Choosing Wisely PDF</a>. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/tests/blood-vs-urine-vs-hair/",
+      "text": "Blood, urine, or hair"
+    },
+    {
+      "href": "/metals/lead/",
+      "text": "Lead"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.15585/mmwr.mm7043a4",
+      "text": "CDC MMWR 2021;70(43), doi:10.15585/mmwr.mm7043a4"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    },
+    {
+      "href": "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf",
+      "text": "ACMT and AACT Choosing Wisely list"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/testing/icp-ms\">Heavy Metal Index: ICP-MS testing</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Are my heavy metal lab levels harmful (interpreting results)? | Metallopathy",
+    "description": "NHANES percentiles describe the U.S. population. CDC says the blood lead reference value is not a toxicity threshold. Most metals in this corpus have no individual harm cutoff.",
+    "canonical": "https://metallopathy.com/tests/interpreting-results/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Are my heavy metal lab levels harmful (interpreting results)?",
+        "name": "Are my heavy metal lab levels harmful (interpreting results)?",
+        "description": "NHANES percentiles describe the U.S. population. CDC says the blood lead reference value is not a toxicity threshold. Most metals in this corpus have no individual harm cutoff.",
+        "url": "https://metallopathy.com/tests/interpreting-results/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.15585/mmwr.mm7043a4",
+          "https://www.cdc.gov/exposurereport/data_tables.html",
+          "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are my heavy metal lab levels harmful (interpreting results)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A percentile from NHANES says where a result sits in the U.S. survey. It does not say the result is harmful. CDC states that the blood lead reference value of 3.5 µg/dL is not a toxicity threshold. For most other metals in this corpus, a verified cutoff that turns one laboratory number into a diagnosis was not found."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

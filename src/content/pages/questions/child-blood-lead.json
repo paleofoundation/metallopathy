@@ -1,0 +1,95 @@
+{
+  "slug": "child-blood-lead",
+  "segment": "questions",
+  "pageType": "other",
+  "pageSlug": "questions/child-blood-lead",
+  "kicker": "Kids",
+  "title": "My child's blood lead level is elevated - what do I do and how do I find the source?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "The blood lead reference value",
+    "basis": "One CDC policy document, based on NHANES. It states what the number is and what it is not."
+  },
+  "answerHtml": "<p>CDC&#39;s blood lead reference value is 3.5 µg/dL for children aged 1 to 5 years, equal to the level at or above which 2.5 percent of those children fall. CDC says it is not a toxicity threshold, that no safe blood lead level in children exists, and that follow-up testing to confirm the level is recommended. This corpus does not contain a verified checklist for finding the source in a home, so no search protocol is invented here.</p>",
+  "sections": [
+    {
+      "heading": "What CDC states about the number",
+      "html": "<p> The saved MMWR page says venous blood is less likely to be contaminated than a skin prick. It says whether a result at or above 3.5 µg/dL triggers medical or environmental follow-up depends on jurisdictional laws, regulations, and resources. It points clinicians to CDC&#39;s recommended actions based on blood lead level. This site does not reprint a treatment plan. <a href=\"https://doi.org/10.15585/mmwr.mm7043a4\">doi:10.15585/mmwr.mm7043a4</a>. </p><p> In NHANES 2017 to 2018, children aged 1 to 5 years had a blood lead geometric mean of 0.670 µg/dL and a 95th percentile of 2.02 µg/dL (n=629), read from the saved CDC table. That row is population description, not a diagnosis. </p>"
+    },
+    {
+      "heading": "What chelation did and did not do",
+      "html": "<p> In children with blood lead of 20 to 44 µg/dL, succimer lowered blood lead and did not improve cognition. That trial is graded on the DMSA page. It is not a set of instructions. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/lead/",
+      "text": "Lead"
+    },
+    {
+      "href": "/protocols/dmsa/",
+      "text": "DMSA"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.15585/mmwr.mm7043a4",
+      "text": "CDC MMWR 2021;70(43), doi:10.15585/mmwr.mm7043a4"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report, blood lead table"
+    },
+    {
+      "href": "https://doi.org/10.1056/NEJM200105103441902",
+      "text": "Rogan et al. 2001 TLC trial, PMID 11346806"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/lead\">Heavy Metal Index: Lead</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "My child's blood lead level is elevated - what do I do and how do I find the source? | Metallopathy",
+    "description": "CDC's blood lead reference value is 3.5 µg/dL for children aged 1 to 5 years. It is not a toxicity threshold. This corpus does not contain a source-finding protocol.",
+    "canonical": "https://metallopathy.com/questions/child-blood-lead/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "My child's blood lead level is elevated - what do I do and how do I find the source?",
+        "name": "My child's blood lead level is elevated - what do I do and how do I find the source?",
+        "description": "CDC's blood lead reference value is 3.5 µg/dL for children aged 1 to 5 years. It is not a toxicity threshold. This corpus does not contain a source-finding protocol.",
+        "url": "https://metallopathy.com/questions/child-blood-lead/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.15585/mmwr.mm7043a4",
+          "https://www.cdc.gov/exposurereport/data_tables.html",
+          "https://doi.org/10.1056/NEJM200105103441902"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "My child's blood lead level is elevated - what do I do and how do I find the source?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "CDC's blood lead reference value is 3.5 µg/dL for children aged 1 to 5 years, equal to the level at or above which 2.5 percent of those children fall. CDC says it is not a toxicity threshold, that no safe blood lead level in children exists, and that follow-up testing to confirm the level is recommended. This corpus does not contain a verified checklist for finding the source in a home, so no search protocol is invented here."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

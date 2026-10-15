@@ -1,0 +1,81 @@
+{
+  "slug": "home",
+  "segment": "home",
+  "pageType": "other",
+  "pageSlug": "home",
+  "kicker": "Home",
+  "title": "What is known about heavy metals in people?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A single conclusion for every metal question",
+    "basis": "The database is a set of separate outcomes. Completeness is not a trial result."
+  },
+  "answerHtml": "<p>Metallopathy states what published human studies and agency documents say about metals in people, and it labels the strength of that evidence. Each page names the source of every number and says when a value was not available. It does not rank brands.</p>",
+  "sections": [
+    {
+      "heading": "Questions in this database",
+      "html": "<p>\nTitles use the wording of questions people actually ask. Grades follow the rubric on the methodology page. A number appears only when a saved source or the checked research corpus states it.\n</p> <div class=\"index-group\"> <h3>Methodology</h3> <ol> <li> <a href=\"/methodology/\">What does an evidence grade from A to F mean?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Symptoms</h3> <ol> <li> <a href=\"/questions/symptoms/\">What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?</a> </li><li> <a href=\"/questions/brain-fog/\">Can heavy metals cause brain fog / depersonalization?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Kids</h3> <ol> <li> <a href=\"/questions/child-blood-lead/\">My child&#39;s blood lead level is elevated - what do I do and how do I find the source?</a> </li><li> <a href=\"/questions/autism/\">Are heavy metals linked to autism in kids?</a> </li><li> <a href=\"/questions/vaccines-aluminum/\">Do vaccines contain heavy metals (aluminum) and how is that tested?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Metals</h3> <ol> <li> <a href=\"/metals/lead/\">What does the evidence say about lead in people?</a> </li><li> <a href=\"/metals/mercury/\">What does the evidence say about mercury in people?</a> </li><li> <a href=\"/metals/arsenic/\">What does the evidence say about arsenic in people?</a> </li><li> <a href=\"/metals/cadmium/\">What does the evidence say about cadmium in people?</a> </li><li> <a href=\"/metals/chromium/\">What does the evidence say about chromium in people?</a> </li><li> <a href=\"/metals/cobalt/\">What does the evidence say about cobalt in people?</a> </li><li> <a href=\"/metals/nickel/\">What does the evidence say about nickel in people?</a> </li><li> <a href=\"/metals/aluminum/\">What does the evidence say about aluminum in people?</a> </li><li> <a href=\"/metals/titanium/\">What does the evidence say about titanium in people?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Testing</h3> <ol> <li> <a href=\"/tests/blood-vs-urine-vs-hair/\">How do I test for heavy metals in my body (blood vs urine vs hair)?</a> </li><li> <a href=\"/tests/blood/\">What can a blood metal test tell you?</a> </li><li> <a href=\"/tests/urine/\">What can a urine metal test tell you?</a> </li><li> <a href=\"/tests/hair-mineral-analysis/\">Is hair mineral analysis (HTMA) accurate for heavy metals?</a> </li><li> <a href=\"/tests/provoked-urine/\">Is provoked (DMSA/DMPS challenge) urine testing valid?</a> </li><li> <a href=\"/tests/mom-hip-ions/\">What can a cobalt or chromium blood test tell you after a metal-on-metal hip?</a> </li><li> <a href=\"/tests/interpreting-results/\">Are my heavy metal lab levels harmful (interpreting results)?</a> </li><li> <a href=\"/tests/home-food-soil/\">How do I test food/soil for heavy metals at home?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Detox and binders</h3> <ol> <li> <a href=\"/protocols/what-works/\">How do I do a heavy metal detox safely / what protocol works?</a> </li><li> <a href=\"/protocols/folic-acid/\">Does folic acid change arsenic methylation?</a> </li><li> <a href=\"/protocols/dmsa/\">Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?</a> </li><li> <a href=\"/protocols/edta/\">Is EDTA chelation safe / how to chelate lead without depleting minerals?</a> </li><li> <a href=\"/protocols/dmps/\">Does DMPS (unithiol) help arsenicosis or mercury exposure?</a> </li><li> <a href=\"/protocols/penicillamine/\">Does penicillamine lower blood lead?</a> </li><li> <a href=\"/protocols/deferoxamine/\">Does deferoxamine reduce bone aluminum in dialysis patients?</a> </li><li> <a href=\"/protocols/chlorella/\">Does chlorella (or spirulina) actually remove heavy metals?</a> </li><li> <a href=\"/protocols/cilantro/\">Does cilantro detox heavy metals, and does it redistribute metals to the brain?</a> </li><li> <a href=\"/protocols/zeolite/\">Does zeolite (clinoptilolite) actually bind and remove heavy metals?</a> </li><li> <a href=\"/protocols/selenium/\">Does selenium increase excretion of mercury or arsenic?</a> </li><li> <a href=\"/protocols/mcp/\">Is modified citrus pectin an effective heavy metal binder?</a> </li><li> <a href=\"/protocols/nac/\">Does N-acetylcysteine lower blood lead in exposed workers?</a> </li><li> <a href=\"/protocols/glutathione/\">Does glutathione help heavy metal detox/chelation?</a> </li><li> <a href=\"/protocols/fibre/\">Does dietary fibre lower blood or plasma metal levels?</a> </li><li> <a href=\"/protocols/sauna/\">Does sauna sweating remove arsenic, cadmium, lead, or mercury?</a> </li><li> <a href=\"/protocols/bentonite/\">Does bentonite bind heavy metals in people?</a> </li><li> <a href=\"/protocols/charcoal/\">Does activated charcoal remove heavy metals?</a> </li><li> <a href=\"/protocols/dimercaprol/\">Is there a human trial of dimercaprol for chronic lead, arsenic, or mercury exposure?</a> </li><li> <a href=\"/protocols/smoothie/\">What is the Medical Medium heavy metal detox smoothie and does it work?</a> </li><li> <a href=\"/protocols/bath/\">Does a heavy metal detox bath / foot bath work (incl. for kids)?</a> </li><li> <a href=\"/protocols/minerals/\">What minerals should I supplement while chelating?</a> </li><li> <a href=\"/protocols/foods/\">Which foods help detox heavy metals?</a> </li><li> <a href=\"/protocols/herx/\">What are heavy metal detox symptoms (herx / feeling worse)?</a> </li><li> <a href=\"/protocols/parasite-cleanse/\">Should you detox heavy metals before/with a parasite cleanse?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Baby food</h3> <ol> <li> <a href=\"/questions/baby-food/\">Which baby food brands are lowest in heavy metals / is any store-bought baby food safe?</a> </li><li> <a href=\"/questions/baby-food-pouches/\">Are heavy metals in baby food pouches / Plum settlement relevant?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Protein powder</h3> <ol> <li> <a href=\"/questions/protein-powder/\">Which protein powders are third-party tested and low in lead/heavy metals?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Chocolate and cocoa</h3> <ol> <li> <a href=\"/questions/dark-chocolate/\">Which dark chocolate brands have the lowest lead and cadmium?</a> </li><li> <a href=\"/questions/cadmium-chocolate-sunflower/\">Is cadmium in chocolate/sunflower seeds a concern?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Rice</h3> <ol> <li> <a href=\"/questions/rice-arsenic/\">How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?</a> </li><li> <a href=\"/questions/rice-cereal-babies/\">Is it safe to use rice cereal/rice cakes/puffs for babies (arsenic)?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Cookware</h3> <ol> <li> <a href=\"/questions/cookware/\">Is ceramic / stainless steel cookware free of lead and safe?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Spices</h3> <ol> <li> <a href=\"/questions/cinnamon/\">Is there lead in cinnamon / which cinnamon brands are safe?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Water</h3> <ol> <li> <a href=\"/questions/water-filters/\">Which water filter removes lead and heavy metals?</a> </li><li> <a href=\"/questions/drinking-water/\">What drinking-water guideline values for metals were verified?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Pregnancy</h3> <ol> <li> <a href=\"/questions/pregnancy/\">Are heavy metals in prenatal vitamins / during pregnancy a concern?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Dental and mercury</h3> <ol> <li> <a href=\"/questions/amalgam-removal/\">Is it safe to remove mercury amalgam fillings (and during pregnancy)?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Mercury and fish</h3> <ol> <li> <a href=\"/questions/tuna-mercury/\">How much mercury is in canned tuna/fish, and how much is safe?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Supplements</h3> <ol> <li> <a href=\"/questions/supplements/\">Do supplements (creatine, magnesium, collagen, mushroom, herbal) contain heavy metals?</a> </li><li> <a href=\"/questions/peptides/\">Do research peptides/supplement powders get heavy-metal tested?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Personal care</h3> <ol> <li> <a href=\"/questions/toothpaste/\">Is there lead in toothpaste (e.g., Colgate)?</a> </li><li> <a href=\"/questions/tampons-pads/\">Is there lead/heavy metals in tampons and pads?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Drinkware</h3> <ol> <li> <a href=\"/questions/stanley-cups/\">Is there lead in Stanley cups?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Other exposures</h3> <ol> <li> <a href=\"/questions/vapes/\">Are there heavy metals in vapes?</a> </li><li> <a href=\"/questions/tattoo-ink/\">Are there heavy metals in tattoo ink?</a> </li><li> <a href=\"/questions/pet-food/\">Are there heavy metals in cat/pet food?</a> </li><li> <a href=\"/questions/chemtrails/\">Do &#39;chemtrails&#39;/airborne metals need detox - what removes them?</a> </li><li> <a href=\"/questions/occupational/\">Which jobs are sources of lead, cadmium, chromium, nickel, cobalt, or mercury?</a> </li><li> <a href=\"/questions/seaweed/\">Are cadmium, lead, arsenic, or mercury found in seaweed?</a> </li><li> <a href=\"/questions/kohl/\">Is lead found in kohl and traditional eye cosmetics?</a> </li><li> <a href=\"/questions/skin-lightening/\">Is mercury found in skin-lightening creams?</a> </li><li> <a href=\"/questions/jewellery/\">Do jewellery and piercing posts release nickel, lead, or cadmium?</a> </li><li> <a href=\"/questions/tobacco/\">Is cadmium found in tobacco?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Implants</h3> <ol> <li> <a href=\"/questions/metal-on-metal-hips/\">Can metal-on-metal hip implants cause local or systemic effects?</a> </li> </ol> </div><div class=\"index-group\"> <h3>Diet</h3> <ol> <li> <a href=\"/questions/cadmium-foods/\">Do cereals, vegetables, cocoa, and shellfish contain cadmium?</a> </li><li> <a href=\"/questions/nickel-foods/\">Do cocoa, legumes, and nuts contain nickel?</a> </li> </ol> </div>"
+    },
+    {
+      "heading": "How to read a page",
+      "html": "<p> The grade sits at the top. The first paragraphs answer the question in the title. Tables are limited to figures read from a saved file or recorded as checked in the research corpus. The Heavy Metal Index link is a citation, not the source of the numbers. The last section points only to the Heavy Metal Tested and Certified register, which had no licensees when this site was built. </p>"
+    }
+  ],
+  "related": [],
+  "sources": [
+    {
+      "href": "https://heavymetalindex.com/",
+      "text": "Heavy Metal Index"
+    },
+    {
+      "href": "/methodology/",
+      "text": "Methodology"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/\">Heavy Metal Index</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Metallopathy | Evidence on heavy metals in people",
+    "description": "Metallopathy is an evidence database on metals in people, the tests used to measure them, and the chelators and binders studied to change those levels.",
+    "canonical": "https://metallopathy.com/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article",
+        "headline": "What is known about heavy metals in people?",
+        "name": "What is known about heavy metals in people?",
+        "description": "Metallopathy is an evidence database on metals in people, the tests used to measure them, and the chelators and binders studied to change those levels.",
+        "url": "https://metallopathy.com/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://heavymetalindex.com/",
+          "/methodology/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is known about heavy metals in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Metallopathy states what published human studies and agency documents say about metals in people, and it labels the strength of that evidence. Each page names the source of every number and says when a value was not available. It does not rank brands."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "tuna-mercury",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/tuna-mercury",
+  "kicker": "Mercury and fish",
+  "title": "How much mercury is in canned tuna/fish, and how much is safe?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "A tolerable methylmercury intake",
+    "basis": "EFSA and EPA published intake values. A canned-tuna concentration is not in this corpus."
+  },
+  "answerHtml": "<p>EFSA set a tolerable weekly intake of 1.3 µg/kg body weight for methylmercury and 4 µg/kg body weight for inorganic mercury. EPA&#39;s methylmercury reference dose is 0.0001 mg/kg/day. A mercury concentration in canned tuna was not verified in the saved sources, so no serving limit for tuna is stated.</p>",
+  "sections": [
+    {
+      "heading": "Intake values",
+      "html": "<p> The EFSA figures are recorded from the 2012 abstract and press release. <a href=\"https://doi.org/10.2903/j.efsa.2012.2985\">doi:10.2903/j.efsa.2012.2985</a>. The EPA dose is on the saved IRIS page. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73\">EPA IRIS</a>. Blood mercury in NHANES is on the mercury page. None of those is a micrograms-per-can figure. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/mercury/",
+      "text": "Mercury"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2012.2985",
+      "text": "EFSA 2012, doi:10.2903/j.efsa.2012.2985"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73",
+      "text": "EPA IRIS methylmercury, substance 73"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/ingredients/canned-tuna\">Heavy Metal Index: canned tuna</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "How much mercury is in canned tuna/fish, and how much is safe? | Metallopathy",
+    "description": "EFSA tolerable weekly intakes for methylmercury and inorganic mercury. No canned tuna concentration was verified.",
+    "canonical": "https://metallopathy.com/questions/tuna-mercury/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "How much mercury is in canned tuna/fish, and how much is safe?",
+        "name": "How much mercury is in canned tuna/fish, and how much is safe?",
+        "description": "EFSA tolerable weekly intakes for methylmercury and inorganic mercury. No canned tuna concentration was verified.",
+        "url": "https://metallopathy.com/questions/tuna-mercury/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2012.2985",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much mercury is in canned tuna/fish, and how much is safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EFSA set a tolerable weekly intake of 1.3 µg/kg body weight for methylmercury and 4 µg/kg body weight for inorganic mercury. EPA's methylmercury reference dose is 0.0001 mg/kg/day. A mercury concentration in canned tuna was not verified in the saved sources, so no serving limit for tuna is stated."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

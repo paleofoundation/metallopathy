@@ -1,0 +1,95 @@
+{
+  "slug": "aluminum",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/aluminum",
+  "kicker": "Metals",
+  "title": "What does the evidence say about aluminum in people?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "An oral aluminum intake value",
+    "basis": "Two agencies published values, and the values are not the same weekly amount. The clinical-syndrome wording in the draft corpus was not verified, so it is not repeated here."
+  },
+  "answerHtml": "<p>EFSA in 2008 set a tolerable weekly intake of 1 mg aluminum per kg body weight per week. ATSDR in 2008 set an intermediate and chronic oral minimal risk level of 1 mg aluminum per kg per day. Those two values are not the same weekly dose. The CDC National Report chemical list used for this site has no aluminum table.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> EFSA in 2008, recorded in the corpus from the abstract and the agency news page, set a tolerable weekly intake of 1 mg/kg body weight per week. <a href=\"https://doi.org/10.2903/j.efsa.2008.754\">EFSA 2008</a>. </p><p> The corpus records an ATSDR 2008 intermediate and chronic oral minimal risk level of 1 mg Al/kg/day, taken from the minimal-risk-level table in the saved profile. It also records that a figure footnote in that PDF gives different numbers (0.3 and 0.9). This site uses the table value the corpus checked, and it does not treat the footnote as a second official value. <a href=\"https://www.atsdr.cdc.gov/toxprofiles/tp22.pdf\">ATSDR aluminum profile</a>. </p><p> IARC, as cited by ATSDR 2008 and recorded in the corpus, classifies occupational aluminum production in Group 1. Whether aluminum metal itself is unclassified was not verified and is not stated. A WHO note that 0.1 mg/L or less is achievable at large treatment facilities is recorded via ATSDR. A 0.2 mg/L figure for small facilities was not verified and is not stated. <a href=\"https://www.who.int/publications/i/item/9789240045064\">WHO GDWQ</a>. </p><p> A JECFA provisional tolerable weekly intake was marked unverified in the corpus because the WHO technical report was not opened. It is not stated here. No CDC National Report table for aluminum was in the chemical list checked for this corpus. </p>"
+    },
+    {
+      "heading": "What is not in this corpus",
+      "html": "<p> Vaccine aluminum quantities and a method for testing vaccine aluminum in people are not in the saved sources. Deferoxamine studies in dialysis patients are on the deferoxamine page. They are treatment series, not a population reference range. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/vaccines-aluminum/",
+      "text": "Do vaccines contain aluminum, and how is that tested?"
+    },
+    {
+      "href": "/protocols/deferoxamine/",
+      "text": "Deferoxamine"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2008.754",
+      "text": "EFSA 2008 aluminum opinion, doi:10.2903/j.efsa.2008.754"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp22.pdf",
+      "text": "ATSDR Toxicological Profile for Aluminum, September 2008"
+    },
+    {
+      "href": "https://www.who.int/publications/i/item/9789240045064",
+      "text": "WHO Guidelines for drinking-water quality"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/aluminum\">Heavy Metal Index: Aluminum</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about aluminum in people? | Metallopathy",
+    "description": "EFSA tolerable weekly intake and the ATSDR 2008 oral minimal risk level for aluminum. No NHANES aluminum table was found.",
+    "canonical": "https://metallopathy.com/metals/aluminum/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about aluminum in people?",
+        "name": "What does the evidence say about aluminum in people?",
+        "description": "EFSA tolerable weekly intake and the ATSDR 2008 oral minimal risk level for aluminum. No NHANES aluminum table was found.",
+        "url": "https://metallopathy.com/metals/aluminum/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2008.754",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp22.pdf",
+          "https://www.who.int/publications/i/item/9789240045064"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about aluminum in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EFSA in 2008 set a tolerable weekly intake of 1 mg aluminum per kg body weight per week. ATSDR in 2008 set an intermediate and chronic oral minimal risk level of 1 mg aluminum per kg per day. Those two values are not the same weekly dose. The CDC National Report chemical list used for this site has no aluminum table."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

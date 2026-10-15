@@ -1,0 +1,85 @@
+{
+  "slug": "rice-arsenic",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/rice-arsenic",
+  "kicker": "Rice",
+  "title": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "Rice as a dietary source of inorganic arsenic",
+    "basis": "One EFSA opinion identifies the source and a reference point. No verified rice concentration or cooking trial is in this corpus."
+  },
+  "answerHtml": "<p>EFSA&#39;s 2024 assessment, as recorded in the corpus, treats rice and rice products as a dietary source of inorganic arsenic and uses a reference point of 0.06 µg per kg body weight per day. A concentration in rice, and a percentage removed by rinsing or by a cooking method, were not verified in the saved sources. Those numbers are not stated.</p>",
+  "sections": [
+    {
+      "heading": "What was verified",
+      "html": "<p> The reference point is a BMDL05 for skin cancer, also considered to cover lung cancer, with a margin-of-exposure approach and no tolerable daily intake. The corpus records that mean dietary exposures are in the range of that reference point. <a href=\"https://doi.org/10.2903/j.efsa.2024.8488\">EFSA 2024</a>. EPA&#39;s oral reference dose is on the arsenic page. </p>"
+    },
+    {
+      "heading": "What is not available",
+      "html": "<p> No micrograms per kilogram of rice, no brand comparison, and no rinse or cook reduction percentage were checked against a saved study. A cooking claim without that study would be an invented number. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/arsenic/",
+      "text": "Arsenic"
+    },
+    {
+      "href": "/questions/rice-cereal-babies/",
+      "text": "Rice cereal for babies"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2024.8488",
+      "text": "EFSA 2024 inorganic arsenic update, doi:10.2903/j.efsa.2024.8488"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/ingredients/rice\">Heavy Metal Index: rice</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic? | Metallopathy",
+    "description": "EFSA identifies rice and rice products as a dietary source of inorganic arsenic. No rice concentration or cooking-reduction percentage was verified here.",
+    "canonical": "https://metallopathy.com/questions/rice-arsenic/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?",
+        "name": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?",
+        "description": "EFSA identifies rice and rice products as a dietary source of inorganic arsenic. No rice concentration or cooking-reduction percentage was verified here.",
+        "url": "https://metallopathy.com/questions/rice-arsenic/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2024.8488"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EFSA's 2024 assessment, as recorded in the corpus, treats rice and rice products as a dietary source of inorganic arsenic and uses a reference point of 0.06 µg per kg body weight per day. A concentration in rice, and a percentage removed by rinsing or by a cooking method, were not verified in the saved sources. Those numbers are not stated."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

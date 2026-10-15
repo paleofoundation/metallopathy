@@ -1,0 +1,92 @@
+{
+  "slug": "drinking-water",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/drinking-water",
+  "kicker": "Water",
+  "title": "What drinking-water guideline values for metals were verified?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "WHO values for lead, cadmium, and nickel",
+    "basis": "Each value is recorded from one citing document. The WHO book itself was not the file checked for arsenic, chromium, or mercury."
+  },
+  "answerHtml": "<p>The corpus records three WHO drinking-water values as checked through other agency documents: lead 10 µg/L provisional, cadmium 3 µg/L, and nickel 70 µg/L. Arsenic, chromium, and mercury values in the same guideline were not re-read and are not stated. These are guideline figures, not measurements of a tap.</p>",
+  "sections": [
+    {
+      "heading": "Values used",
+      "html": "<p> Cobalt: the ATSDR 2024 profile, as recorded in the corpus, says WHO has no guideline value. <a href=\"https://www.who.int/publications/i/item/9789240045064\">WHO GDWQ</a>. </p>  <div class=\"table-wrap\"> <table> <caption>Drinking-water figures published on this site</caption> <thead> <tr> <th scope=\"col\">Metal</th><th scope=\"col\">Value</th><th scope=\"col\">How it was checked</th> </tr> </thead> <tbody> <tr> <td> Lead </td><td> 10 µg/L, provisional </td><td> Corpus, via ATSDR lead profile (2020) </td> </tr><tr> <td> Cadmium </td><td> 3 µg/L </td><td> Corpus, via ATSDR cadmium draft (2026) </td> </tr><tr> <td> Nickel </td><td> 70 µg/L </td><td> Corpus, cited in EFSA 2020 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/water-filters/",
+      "text": "Which water filter removes lead?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.who.int/publications/i/item/9789240045064",
+      "text": "WHO Guidelines for drinking-water quality"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf",
+      "text": "ATSDR lead profile, 2020"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf",
+      "text": "ATSDR cadmium draft, October 2026"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2020.6268",
+      "text": "EFSA 2020 nickel opinion, doi:10.2903/j.efsa.2020.6268"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/ingredients/water\">Heavy Metal Index: water</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What drinking-water guideline values for metals were verified? | Metallopathy",
+    "description": "WHO values for lead, cadmium, and nickel were recorded as checked via ATSDR or EFSA. Arsenic, chromium, and mercury values were not verified.",
+    "canonical": "https://metallopathy.com/questions/drinking-water/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What drinking-water guideline values for metals were verified?",
+        "name": "What drinking-water guideline values for metals were verified?",
+        "description": "WHO values for lead, cadmium, and nickel were recorded as checked via ATSDR or EFSA. Arsenic, chromium, and mercury values were not verified.",
+        "url": "https://metallopathy.com/questions/drinking-water/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.who.int/publications/i/item/9789240045064",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp13.pdf",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp5.pdf",
+          "https://doi.org/10.2903/j.efsa.2020.6268"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What drinking-water guideline values for metals were verified?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The corpus records three WHO drinking-water values as checked through other agency documents: lead 10 µg/L provisional, cadmium 3 µg/L, and nickel 70 µg/L. Arsenic, chromium, and mercury values in the same guideline were not re-read and are not stated. These are guideline figures, not measurements of a tap."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

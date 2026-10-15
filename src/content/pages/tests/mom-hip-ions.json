@@ -1,0 +1,100 @@
+{
+  "slug": "mom-hip-ions",
+  "segment": "tests",
+  "pageType": "test",
+  "pageSlug": "tests/mom-hip-ions",
+  "kicker": "Testing",
+  "title": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "A single cobalt or chromium number as a revision threshold",
+    "basis": "Agencies recommend considering the test in context. All three say an exact standalone threshold is not established."
+  },
+  "answerHtml": "<p>SCENIHR said whole-blood cobalt in the range of 2 to 7 µg/L may mark a need for more investigation, and that the exact level inside that range was not determined. FDA says there is not enough evidence that one metal-ion number, by itself, shows a local lesion, a clinical outcome, or a need for revision. MHRA says there is no agreed whole-blood threshold that predicts outcome or mandates revision.</p>",
+  "sections": [
+    {
+      "heading": "What the test can tell you",
+      "html": "<p> SCENIHR (2014) recommended whole blood, with cobalt as the reference substance. Additional imaging was recommended when cobalt was above a threshold inside 2 to 7 µg/L. Critical values for systemic effects were not established. <a href=\"https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf\">SCENIHR PDF</a>. </p><p> FDA says surgeons should consider metal-ion measurement in symptomatic patients, ideally in series, together with imaging and the clinical picture. FDA says evidence is insufficient to recommend testing when the patient has no signs or symptoms and the surgeon finds a well-functioning implant with normal radiographs. FDA recommends EDTA whole blood and a validated ICP-MS method able to measure as low as 1 µg/L for cobalt, and the same floor if chromium is measured. FDA says a metal-ion level in isolation has not been shown to correlate with localized lesions, clinical outcomes, or the need for revision. <a href=\"https://www.fda.gov/medical-devices/metal-metal-hip-implants/information-about-soft-tissue-imaging-and-metal-ion-testing\">FDA testing page</a>. </p><p> MHRA MDA/2017/018 says rising levels may indicate potential for soft-tissue reaction and that MARS MRI or ultrasound should carry more weight than an isolated blood level. <a href=\"https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients\">MHRA alert</a>. </p>"
+    },
+    {
+      "heading": "What it cannot tell you",
+      "html": "<p> It cannot, on these sources, serve as the only reason to revise an implant. Ordinary NHANES blood cobalt in 2017 to 2018 had a 95th percentile of 0.430 µg/L, which is below the SCENIHR concern range. That comparison is descriptive. It is not a diagnostic cutoff. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/cobalt/",
+      "text": "Cobalt"
+    },
+    {
+      "href": "/questions/metal-on-metal-hips/",
+      "text": "Metal-on-metal hips as an exposure"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf",
+      "text": "SCENIHR opinion on metal-on-metal joint replacements, 2014"
+    },
+    {
+      "href": "https://www.fda.gov/medical-devices/metal-metal-hip-implants/information-about-soft-tissue-imaging-and-metal-ion-testing",
+      "text": "FDA, Information about Soft Tissue Imaging and Metal Ion Testing"
+    },
+    {
+      "href": "https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients",
+      "text": "MHRA MDA/2017/018"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables (blood cobalt)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/cobalt\">Heavy Metal Index: Cobalt</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip? | Metallopathy",
+    "description": "SCENIHR, MHRA, and FDA on whole-blood cobalt and chromium after metal-on-metal hip replacement. No exact revision threshold is established.",
+    "canonical": "https://metallopathy.com/tests/mom-hip-ions/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip?",
+        "name": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip?",
+        "description": "SCENIHR, MHRA, and FDA on whole-blood cobalt and chromium after metal-on-metal hip replacement. No exact revision threshold is established.",
+        "url": "https://metallopathy.com/tests/mom-hip-ions/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf",
+          "https://www.fda.gov/medical-devices/metal-metal-hip-implants/information-about-soft-tissue-imaging-and-metal-ion-testing",
+          "https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SCENIHR said whole-blood cobalt in the range of 2 to 7 µg/L may mark a need for more investigation, and that the exact level inside that range was not determined. FDA says there is not enough evidence that one metal-ion number, by itself, shows a local lesion, a clinical outcome, or a need for revision. MHRA says there is no agreed whole-blood threshold that predicts outcome or mandates revision."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "selenium",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/selenium",
+  "kicker": "Detox and binders",
+  "title": "Does selenium increase excretion of mercury or arsenic?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Urinary excretion of mercury or arsenic",
+    "basis": "Two randomized trials, n=103 and n=405, on excretion surrogates."
+  },
+  "answerHtml": "<p>A randomized trial in a mercury-mining area found higher urine mercury and lower oxidative markers with selenium-enriched yeast. A larger randomized trial in adults with chronic arsenic exposure found higher urine arsenic and dimethylarsinic acid with selenium-rich lentils, and lower asthma and allergy incidence. Both are excretion findings. They are not trials of removing metal already stored in organs.</p>",
+  "sections": [
+    {
+      "heading": "Trials",
+      "html": "<ul> <li> <a href=\"https://doi.org/10.1021/es302241v\">Li 2012</a>: 53 versus 50 residents of a mercury-mining area, 3 months, selenium yeast versus non-selenium yeast. Higher urine mercury and lower MDA and 8-OHdG. PMID 23033886. </li><li> <a href=\"https://doi.org/10.1016/j.envres.2019.108561\">Smits 2019</a>: double-blind, 405 adults with chronic arsenic exposure, 6 months, selenium-rich lentils versus placebo lentils. Higher urine arsenic (p=0.001) and DMA. Lower asthma and allergy incidence. PMID 31299617. </li> </ul>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/foods/",
+      "text": "Which foods help detox?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1021/es302241v",
+      "text": "Li et al. 2012, doi:10.1021/es302241v, PMID 23033886"
+    },
+    {
+      "href": "https://doi.org/10.1016/j.envres.2019.108561",
+      "text": "Smits et al. 2019, doi:10.1016/j.envres.2019.108561, PMID 31299617"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/mercury\">Heavy Metal Index: Mercury</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does selenium increase excretion of mercury or arsenic? | Metallopathy",
+    "description": "Two randomized trials reported higher urine mercury or urine arsenic with selenium. They did not measure clearance of a stored body burden as a clinical outcome.",
+    "canonical": "https://metallopathy.com/protocols/selenium/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does selenium increase excretion of mercury or arsenic?",
+        "name": "Does selenium increase excretion of mercury or arsenic?",
+        "description": "Two randomized trials reported higher urine mercury or urine arsenic with selenium. They did not measure clearance of a stored body burden as a clinical outcome.",
+        "url": "https://metallopathy.com/protocols/selenium/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1021/es302241v",
+          "https://doi.org/10.1016/j.envres.2019.108561"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does selenium increase excretion of mercury or arsenic?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A randomized trial in a mercury-mining area found higher urine mercury and lower oxidative markers with selenium-enriched yeast. A larger randomized trial in adults with chronic arsenic exposure found higher urine arsenic and dimethylarsinic acid with selenium-rich lentils, and lower asthma and allergy incidence. Both are excretion findings. They are not trials of removing metal already stored in organs."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

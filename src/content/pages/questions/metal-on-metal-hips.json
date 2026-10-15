@@ -1,0 +1,81 @@
+{
+  "slug": "metal-on-metal-hips",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/metal-on-metal-hips",
+  "kicker": "Implants",
+  "title": "Can metal-on-metal hip implants cause local or systemic effects?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "Local reactions after metal-on-metal hips",
+    "basis": "One scientific committee opinion describes local reactions and says systemic organ toxicity is not established."
+  },
+  "answerHtml": "<p>SCENIHR said metal-on-metal implants may cause local and systemic adverse effects. Local responses range from small asymptomatic lesions to severe bone and soft-tissue destruction. Large-diameter implants had the highest incidence of local reactions. Evidence for systemic organ toxicity, carcinogenicity, and teratogenicity was judged insufficient.</p>",
+  "sections": [
+    {
+      "heading": "Opinion",
+      "html": "<p> Terms used in the opinion include metallosis, ALVAL, pseudotumours, and ARMD. Whole-blood cobalt screening and the 2 to 7 µg/L range are on the cobalt and ion-test pages. <a href=\"https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf\">SCENIHR PDF</a>. A later SCHEER opinion on these hips was not located. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/tests/mom-hip-ions/",
+      "text": "Cobalt and chromium blood tests"
+    },
+    {
+      "href": "/metals/titanium/",
+      "text": "Titanium implants"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf",
+      "text": "SCENIHR opinion on metal-on-metal joint replacements, 2014"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/cobalt\">Heavy Metal Index: Cobalt</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Can metal-on-metal hip implants cause local or systemic effects? | Metallopathy",
+    "description": "SCENIHR 2014 describes local tissue reactions and says evidence for systemic organ toxicity, carcinogenicity, and teratogenicity is insufficient.",
+    "canonical": "https://metallopathy.com/questions/metal-on-metal-hips/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Can metal-on-metal hip implants cause local or systemic effects?",
+        "name": "Can metal-on-metal hip implants cause local or systemic effects?",
+        "description": "SCENIHR 2014 describes local tissue reactions and says evidence for systemic organ toxicity, carcinogenicity, and teratogenicity is insufficient.",
+        "url": "https://metallopathy.com/questions/metal-on-metal-hips/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Can metal-on-metal hip implants cause local or systemic effects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "SCENIHR said metal-on-metal implants may cause local and systemic adverse effects. Local responses range from small asymptomatic lesions to severe bone and soft-tissue destruction. Large-diameter implants had the highest incidence of local reactions. Evidence for systemic organ toxicity, carcinogenicity, and teratogenicity was judged insufficient."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

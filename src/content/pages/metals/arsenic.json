@@ -1,0 +1,105 @@
+{
+  "slug": "arsenic",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/arsenic",
+  "kicker": "Metals",
+  "title": "What does the evidence say about arsenic in people?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Inorganic arsenic and cancer or cardiovascular endpoints",
+    "basis": "IARC Group 1, the EFSA 2024 reference point, the EPA 2025 reference dose, and the ATSDR chronic oral minimal risk level all address inorganic arsenic. Not graded A: these are assessments, not several randomized trials."
+  },
+  "answerHtml": "<p>EPA&#39;s 2025 oral reference dose for inorganic arsenic is 0.00006 mg/kg/day, based on ischemic heart disease and type 2 diabetes, with an oral cancer slope factor of 32 per mg/kg/day for bladder and lung cancer. EFSA in 2024 used a skin-cancer reference point of 0.06 µg inorganic arsenic per kg body weight per day and did not set a tolerable daily intake. Total urine arsenic is a poor stand-in for inorganic exposure because arsenobetaine from seafood raises it.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> EPA IRIS, updated 13 January 2025, lists an oral reference dose of 6 x 10^-5 mg/kg/day for inorganic arsenic, based on ischemic heart disease and type 2 diabetes. The oral slope factor is 32 per mg/kg/day for bladder and lung cancer combined. The inhalation unit risk of 4.3 x 10^-3 per µg/m3 is the 1995 value, which the 2025 assessment did not update. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=278\">EPA IRIS inorganic arsenic</a>. </p><p> EFSA in 2024, recorded in the corpus as checked against the opinion, used a BMDL05 of 0.06 µg inorganic arsenic per kg body weight per day from skin cancer, also considered to cover lung cancer, and a margin-of-exposure approach with no tolerable daily intake. The corpus records that mean dietary exposures are in the range of that reference point. <a href=\"https://doi.org/10.2903/j.efsa.2024.8488\">EFSA 2024</a>. </p><p> The ATSDR 2007 profile, saved with this site, is cited in the corpus for a chronic oral minimal risk level of 0.0003 mg/kg/day (0.3 µg/kg/day) for inorganic arsenic. <a href=\"https://www.atsdr.cdc.gov/toxprofiles/tp2.pdf\">ATSDR arsenic profile</a>. IARC classifies arsenic and inorganic arsenic compounds in Group 1. <a href=\"https://publications.iarc.who.int/120\">IARC volume 100C</a>. A WHO drinking-water value was not verified and is not stated here. </p><p> Folic acid trials that change arsenic methylation are graded on the folic acid page. They are not evidence that folic acid removes stored arsenic. </p>"
+    },
+    {
+      "heading": "Urine arsenic in NHANES 2017 to 2018",
+      "html": "<p> Read from the saved CDC tables. Units are µg arsenic per liter, unadjusted. Total U.S. population. A star means the geometric mean was not calculated because too many results were below the limit of detection. The inorganic-related sum is the CDC table defined as the sum of arsenic acid, arsenous acid, dimethylarsenic acid, and monomethylarsonic acid (the table header spells one name as methlyarsonic acid). These rows replace a draft corpus table that did not match these PDFs. </p>  <div class=\"table-wrap\"> <table> <caption>Urine arsenic species, NHANES 2017 to 2018, total population (µg As/L)</caption> <thead> <tr> <th scope=\"col\">Analyte</th><th scope=\"col\">Geometric mean (95% CI)</th><th scope=\"col\">50th</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> Inorganic-related sum </td><td> 4.34 (4.16 to 4.53) </td><td> 4.14 (3.88 to 4.27) </td><td> 13.4 (12.0 to 16.5) </td><td> 2825 </td> </tr><tr> <td> Dimethylarsinic acid </td><td> 3.05 (2.90 to 3.21) </td><td> 2.90 (2.74 to 3.08) </td><td> 11.4 (9.51 to 13.4) </td><td> 2825 </td> </tr><tr> <td> Monomethylarsonic acid </td><td> Not calculated </td><td> Below LOD </td><td> 1.47 (1.36 to 1.59) </td><td> 2825 </td> </tr><tr> <td> Arsenous (III) acid </td><td> Not calculated </td><td> Below LOD </td><td> 1.01 (0.910 to 1.15) </td><td> 2825 </td> </tr><tr> <td> Arsenic (V) acid </td><td> Not calculated </td><td> Below LOD </td><td> 0.880 (below LOD to 1.28) </td><td> 2825 </td> </tr><tr> <td> Arsenobetaine </td><td> Not calculated </td><td> Below LOD </td><td> 39.5 (27.8 to 52.6) </td><td> 2825 </td> </tr><tr> <td> Total arsenic </td><td> 6.32 (5.64 to 7.08) </td><td> 5.71 (5.11 to 6.42) </td><td> 61.5 (42.6 to 70.5) </td><td> 2792 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/rice-arsenic/",
+      "text": "How much arsenic is in rice?"
+    },
+    {
+      "href": "/protocols/folic-acid/",
+      "text": "Folic acid and arsenic methylation"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=278",
+      "text": "EPA IRIS, Arsenic, inorganic, substance 278"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2024.8488",
+      "text": "EFSA 2024 inorganic arsenic update, doi:10.2903/j.efsa.2024.8488"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp2.pdf",
+      "text": "ATSDR Toxicological Profile for Arsenic, 2007"
+    },
+    {
+      "href": "https://publications.iarc.who.int/120",
+      "text": "IARC Monographs volume 100C"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/arsenic\">Heavy Metal Index: Arsenic</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about arsenic in people? | Metallopathy",
+    "description": "Inorganic arsenic reference values from EPA IRIS (2025), EFSA (2024), and ATSDR (2007), plus NHANES urine arsenic species read from the saved CDC tables.",
+    "canonical": "https://metallopathy.com/metals/arsenic/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about arsenic in people?",
+        "name": "What does the evidence say about arsenic in people?",
+        "description": "Inorganic arsenic reference values from EPA IRIS (2025), EFSA (2024), and ATSDR (2007), plus NHANES urine arsenic species read from the saved CDC tables.",
+        "url": "https://metallopathy.com/metals/arsenic/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=278",
+          "https://doi.org/10.2903/j.efsa.2024.8488",
+          "https://www.atsdr.cdc.gov/toxprofiles/tp2.pdf",
+          "https://publications.iarc.who.int/120",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about arsenic in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EPA's 2025 oral reference dose for inorganic arsenic is 0.00006 mg/kg/day, based on ischemic heart disease and type 2 diabetes, with an oral cancer slope factor of 32 per mg/kg/day for bladder and lung cancer. EFSA in 2024 used a skin-cancer reference point of 0.06 µg inorganic arsenic per kg body weight per day and did not set a tolerable daily intake. Total urine arsenic is a poor stand-in for inorganic exposure because arsenobetaine from seafood raises it."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

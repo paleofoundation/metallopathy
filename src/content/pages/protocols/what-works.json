@@ -1,0 +1,89 @@
+{
+  "slug": "what-works",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/what-works",
+  "kicker": "Detox and binders",
+  "title": "How do I do a heavy metal detox safely / what protocol works?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A single at-home protocol that removes stored metals",
+    "basis": "No qualifying trial of a general protocol was located. Absence of a trial is not proof of no effect."
+  },
+  "answerHtml": "<p>This corpus does not contain a trial of a general at-home detox protocol, so that claim is not graded. The interventions that do have human studies are graded separately, and those grades are for a stated outcome, not for a promise to clear stored metal. Folic acid has the strongest trial evidence here, and it changes arsenic methylation. It is not a general chelator.</p>",
+  "sections": [
+    {
+      "heading": "Where the human studies are",
+      "html": "<p> Grades below are the grades on each intervention page. They are not repeated as extra badges on this page. Study conditions are not dose instructions. </p>  <div class=\"table-wrap\"> <table> <caption>Intervention pages and the outcome that was graded</caption> <thead> <tr> <th scope=\"col\">Page</th><th scope=\"col\">Graded outcome</th><th scope=\"col\">Grade</th> </tr> </thead> <tbody> <tr> <td> <a href=\"/protocols/folic-acid/\">Folic acid</a> </td><td> Arsenic methylation </td><td> A </td> </tr><tr> <td> <a href=\"/protocols/dmsa/\">DMSA, blood lead</a> </td><td> Lowering blood lead in children </td><td> B </td> </tr><tr> <td> <a href=\"/protocols/zeolite/\">Zeolite</a> </td><td> Blocking uptake of co-ingested lead </td><td> B </td> </tr><tr> <td> <a href=\"/protocols/selenium/\">Selenium</a> </td><td> Urinary excretion of mercury or arsenic </td><td> B </td> </tr><tr> <td> <a href=\"/protocols/dmsa/\">DMSA, cognition</a> </td><td> Cognitive benefit at blood lead 20 to 44 µg/dL </td><td> F </td> </tr><tr> <td> <a href=\"/protocols/edta/\">EDTA</a> </td><td> Cardiovascular events; hypocalcemia harm </td><td> D and F </td> </tr><tr> <td> <a href=\"/tests/provoked-urine/\">Provoked urine</a> </td><td> Diagnosing poisoning </td><td> F </td> </tr> </tbody> </table> </div>"
+    },
+    {
+      "heading": "Schedules named in public questions",
+      "html": "<p> The question set names a low-dose frequent chelator schedule and a smoothie. Neither has a trial in this corpus. Those pages say what was and was not found. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/folic-acid/",
+      "text": "Folic acid"
+    },
+    {
+      "href": "/protocols/dmsa/",
+      "text": "DMSA"
+    },
+    {
+      "href": "/protocols/edta/",
+      "text": "EDTA"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://pubmed.ncbi.nlm.nih.gov/",
+      "text": "Study rows are cited on each intervention page from the detox evidence table (PubMed and journal URLs)."
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/\">Heavy Metal Index: metal registry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "How do I do a heavy metal detox safely / what protocol works? | Metallopathy",
+    "description": "No single at-home protocol in this corpus has a trial showing it removes stored metals safely. Graded interventions are listed on their own pages.",
+    "canonical": "https://metallopathy.com/protocols/what-works/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "How do I do a heavy metal detox safely / what protocol works?",
+        "name": "How do I do a heavy metal detox safely / what protocol works?",
+        "description": "No single at-home protocol in this corpus has a trial showing it removes stored metals safely. Graded interventions are listed on their own pages.",
+        "url": "https://metallopathy.com/protocols/what-works/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://pubmed.ncbi.nlm.nih.gov/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I do a heavy metal detox safely / what protocol works?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This corpus does not contain a trial of a general at-home detox protocol, so that claim is not graded. The interventions that do have human studies are graded separately, and those grades are for a stated outcome, not for a promise to clear stored metal. Folic acid has the strongest trial evidence here, and it changes arsenic methylation. It is not a general chelator."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

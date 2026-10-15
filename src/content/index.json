@@ -1,0 +1,731 @@
+[
+  {
+    "segment": "home",
+    "slug": "home",
+    "pageSlug": "home",
+    "pageType": "other",
+    "kicker": "Home",
+    "title": "What is known about heavy metals in people?",
+    "grade": "NG"
+  },
+  {
+    "segment": "metals",
+    "slug": "aluminum",
+    "pageSlug": "metals/aluminum",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about aluminum in people?",
+    "grade": "C"
+  },
+  {
+    "segment": "metals",
+    "slug": "arsenic",
+    "pageSlug": "metals/arsenic",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about arsenic in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "cadmium",
+    "pageSlug": "metals/cadmium",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about cadmium in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "chromium",
+    "pageSlug": "metals/chromium",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about chromium in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "cobalt",
+    "pageSlug": "metals/cobalt",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about cobalt in people?",
+    "grade": "C"
+  },
+  {
+    "segment": "metals",
+    "slug": "lead",
+    "pageSlug": "metals/lead",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about lead in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "mercury",
+    "pageSlug": "metals/mercury",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about mercury in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "nickel",
+    "pageSlug": "metals/nickel",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about nickel in people?",
+    "grade": "B"
+  },
+  {
+    "segment": "metals",
+    "slug": "titanium",
+    "pageSlug": "metals/titanium",
+    "pageType": "metal",
+    "kicker": "Metals",
+    "title": "What does the evidence say about titanium in people?",
+    "grade": "C"
+  },
+  {
+    "segment": "methodology",
+    "slug": "methodology",
+    "pageSlug": "methodology",
+    "pageType": "other",
+    "kicker": "Methodology",
+    "title": "What does an evidence grade from A to F mean?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "bath",
+    "pageSlug": "protocols/bath",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does a heavy metal detox bath / foot bath work (incl. for kids)?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "bentonite",
+    "pageSlug": "protocols/bentonite",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does bentonite bind heavy metals in people?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "charcoal",
+    "pageSlug": "protocols/charcoal",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does activated charcoal remove heavy metals?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "chlorella",
+    "pageSlug": "protocols/chlorella",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does chlorella (or spirulina) actually remove heavy metals?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "cilantro",
+    "pageSlug": "protocols/cilantro",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does cilantro detox heavy metals, and does it redistribute metals to the brain?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "deferoxamine",
+    "pageSlug": "protocols/deferoxamine",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does deferoxamine reduce bone aluminum in dialysis patients?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "dimercaprol",
+    "pageSlug": "protocols/dimercaprol",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Is there a human trial of dimercaprol for chronic lead, arsenic, or mercury exposure?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "dmps",
+    "pageSlug": "protocols/dmps",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does DMPS (unithiol) help arsenicosis or mercury exposure?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "dmsa",
+    "pageSlug": "protocols/dmsa",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does DMSA (succimer) lower lead or improve cognition, autism, or arsenicosis?",
+    "grade": "B"
+  },
+  {
+    "segment": "protocols",
+    "slug": "edta",
+    "pageSlug": "protocols/edta",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Is EDTA chelation safe / how to chelate lead without depleting minerals?",
+    "grade": "D"
+  },
+  {
+    "segment": "protocols",
+    "slug": "fibre",
+    "pageSlug": "protocols/fibre",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does dietary fibre lower blood or plasma metal levels?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "folic-acid",
+    "pageSlug": "protocols/folic-acid",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does folic acid change arsenic methylation?",
+    "grade": "A"
+  },
+  {
+    "segment": "protocols",
+    "slug": "foods",
+    "pageSlug": "protocols/foods",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Which foods help detox heavy metals?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "glutathione",
+    "pageSlug": "protocols/glutathione",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does glutathione help heavy metal detox/chelation?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "herx",
+    "pageSlug": "protocols/herx",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "What are heavy metal detox symptoms (herx / feeling worse)?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "mcp",
+    "pageSlug": "protocols/mcp",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Is modified citrus pectin an effective heavy metal binder?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "minerals",
+    "pageSlug": "protocols/minerals",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "What minerals should I supplement while chelating?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "nac",
+    "pageSlug": "protocols/nac",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does N-acetylcysteine lower blood lead in exposed workers?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "parasite-cleanse",
+    "pageSlug": "protocols/parasite-cleanse",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Should you detox heavy metals before/with a parasite cleanse?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "penicillamine",
+    "pageSlug": "protocols/penicillamine",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does penicillamine lower blood lead?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "sauna",
+    "pageSlug": "protocols/sauna",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does sauna sweating remove arsenic, cadmium, lead, or mercury?",
+    "grade": "C"
+  },
+  {
+    "segment": "protocols",
+    "slug": "selenium",
+    "pageSlug": "protocols/selenium",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does selenium increase excretion of mercury or arsenic?",
+    "grade": "B"
+  },
+  {
+    "segment": "protocols",
+    "slug": "smoothie",
+    "pageSlug": "protocols/smoothie",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "What is the Medical Medium heavy metal detox smoothie and does it work?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "what-works",
+    "pageSlug": "protocols/what-works",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "How do I do a heavy metal detox safely / what protocol works?",
+    "grade": "NG"
+  },
+  {
+    "segment": "protocols",
+    "slug": "zeolite",
+    "pageSlug": "protocols/zeolite",
+    "pageType": "protocol",
+    "kicker": "Detox and binders",
+    "title": "Does zeolite (clinoptilolite) actually bind and remove heavy metals?",
+    "grade": "B"
+  },
+  {
+    "segment": "questions",
+    "slug": "amalgam-removal",
+    "pageSlug": "questions/amalgam-removal",
+    "pageType": "category",
+    "kicker": "Dental and mercury",
+    "title": "Is it safe to remove mercury amalgam fillings (and during pregnancy)?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "autism",
+    "pageSlug": "questions/autism",
+    "pageType": "other",
+    "kicker": "Kids",
+    "title": "Are heavy metals linked to autism in kids?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "baby-food-pouches",
+    "pageSlug": "questions/baby-food-pouches",
+    "pageType": "category",
+    "kicker": "Baby food",
+    "title": "Are heavy metals in baby food pouches / Plum settlement relevant?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "baby-food",
+    "pageSlug": "questions/baby-food",
+    "pageType": "category",
+    "kicker": "Baby food",
+    "title": "Which baby food brands are lowest in heavy metals / is any store-bought baby food safe?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "brain-fog",
+    "pageSlug": "questions/brain-fog",
+    "pageType": "other",
+    "kicker": "Symptoms",
+    "title": "Can heavy metals cause brain fog / depersonalization?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "cadmium-chocolate-sunflower",
+    "pageSlug": "questions/cadmium-chocolate-sunflower",
+    "pageType": "category",
+    "kicker": "Chocolate and cocoa",
+    "title": "Is cadmium in chocolate/sunflower seeds a concern?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "cadmium-foods",
+    "pageSlug": "questions/cadmium-foods",
+    "pageType": "category",
+    "kicker": "Diet",
+    "title": "Do cereals, vegetables, cocoa, and shellfish contain cadmium?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "chemtrails",
+    "pageSlug": "questions/chemtrails",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Do 'chemtrails'/airborne metals need detox - what removes them?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "child-blood-lead",
+    "pageSlug": "questions/child-blood-lead",
+    "pageType": "other",
+    "kicker": "Kids",
+    "title": "My child's blood lead level is elevated - what do I do and how do I find the source?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "cinnamon",
+    "pageSlug": "questions/cinnamon",
+    "pageType": "category",
+    "kicker": "Spices",
+    "title": "Is there lead in cinnamon / which cinnamon brands are safe?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "cookware",
+    "pageSlug": "questions/cookware",
+    "pageType": "category",
+    "kicker": "Cookware",
+    "title": "Is ceramic / stainless steel cookware free of lead and safe?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "dark-chocolate",
+    "pageSlug": "questions/dark-chocolate",
+    "pageType": "category",
+    "kicker": "Chocolate and cocoa",
+    "title": "Which dark chocolate brands have the lowest lead and cadmium?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "drinking-water",
+    "pageSlug": "questions/drinking-water",
+    "pageType": "category",
+    "kicker": "Water",
+    "title": "What drinking-water guideline values for metals were verified?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "jewellery",
+    "pageSlug": "questions/jewellery",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Do jewellery and piercing posts release nickel, lead, or cadmium?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "kohl",
+    "pageSlug": "questions/kohl",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Is lead found in kohl and traditional eye cosmetics?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "metal-on-metal-hips",
+    "pageSlug": "questions/metal-on-metal-hips",
+    "pageType": "category",
+    "kicker": "Implants",
+    "title": "Can metal-on-metal hip implants cause local or systemic effects?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "nickel-foods",
+    "pageSlug": "questions/nickel-foods",
+    "pageType": "category",
+    "kicker": "Diet",
+    "title": "Do cocoa, legumes, and nuts contain nickel?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "occupational",
+    "pageSlug": "questions/occupational",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Which jobs are sources of lead, cadmium, chromium, nickel, cobalt, or mercury?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "peptides",
+    "pageSlug": "questions/peptides",
+    "pageType": "category",
+    "kicker": "Supplements",
+    "title": "Do research peptides/supplement powders get heavy-metal tested?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "pet-food",
+    "pageSlug": "questions/pet-food",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Are there heavy metals in cat/pet food?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "pregnancy",
+    "pageSlug": "questions/pregnancy",
+    "pageType": "category",
+    "kicker": "Pregnancy",
+    "title": "Are heavy metals in prenatal vitamins / during pregnancy a concern?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "protein-powder",
+    "pageSlug": "questions/protein-powder",
+    "pageType": "category",
+    "kicker": "Protein powder",
+    "title": "Which protein powders are third-party tested and low in lead/heavy metals?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "rice-arsenic",
+    "pageSlug": "questions/rice-arsenic",
+    "pageType": "category",
+    "kicker": "Rice",
+    "title": "How much arsenic is in rice and how do I cook/rinse it to reduce arsenic?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "rice-cereal-babies",
+    "pageSlug": "questions/rice-cereal-babies",
+    "pageType": "category",
+    "kicker": "Rice",
+    "title": "Is it safe to use rice cereal/rice cakes/puffs for babies (arsenic)?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "seaweed",
+    "pageSlug": "questions/seaweed",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Are cadmium, lead, arsenic, or mercury found in seaweed?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "skin-lightening",
+    "pageSlug": "questions/skin-lightening",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Is mercury found in skin-lightening creams?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "stanley-cups",
+    "pageSlug": "questions/stanley-cups",
+    "pageType": "category",
+    "kicker": "Drinkware",
+    "title": "Is there lead in Stanley cups?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "supplements",
+    "pageSlug": "questions/supplements",
+    "pageType": "category",
+    "kicker": "Supplements",
+    "title": "Do supplements (creatine, magnesium, collagen, mushroom, herbal) contain heavy metals?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "symptoms",
+    "pageSlug": "questions/symptoms",
+    "pageType": "other",
+    "kicker": "Symptoms",
+    "title": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "tampons-pads",
+    "pageSlug": "questions/tampons-pads",
+    "pageType": "category",
+    "kicker": "Personal care",
+    "title": "Is there lead/heavy metals in tampons and pads?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "tattoo-ink",
+    "pageSlug": "questions/tattoo-ink",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Are there heavy metals in tattoo ink?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "tobacco",
+    "pageSlug": "questions/tobacco",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Is cadmium found in tobacco?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "toothpaste",
+    "pageSlug": "questions/toothpaste",
+    "pageType": "category",
+    "kicker": "Personal care",
+    "title": "Is there lead in toothpaste (e.g., Colgate)?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "tuna-mercury",
+    "pageSlug": "questions/tuna-mercury",
+    "pageType": "category",
+    "kicker": "Mercury and fish",
+    "title": "How much mercury is in canned tuna/fish, and how much is safe?",
+    "grade": "C"
+  },
+  {
+    "segment": "questions",
+    "slug": "vaccines-aluminum",
+    "pageSlug": "questions/vaccines-aluminum",
+    "pageType": "category",
+    "kicker": "Kids",
+    "title": "Do vaccines contain heavy metals (aluminum) and how is that tested?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "vapes",
+    "pageSlug": "questions/vapes",
+    "pageType": "category",
+    "kicker": "Other exposures",
+    "title": "Are there heavy metals in vapes?",
+    "grade": "NG"
+  },
+  {
+    "segment": "questions",
+    "slug": "water-filters",
+    "pageSlug": "questions/water-filters",
+    "pageType": "category",
+    "kicker": "Water",
+    "title": "Which water filter removes lead and heavy metals?",
+    "grade": "NG"
+  },
+  {
+    "segment": "tests",
+    "slug": "blood-vs-urine-vs-hair",
+    "pageSlug": "tests/blood-vs-urine-vs-hair",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "How do I test for heavy metals in my body (blood vs urine vs hair)?",
+    "grade": "B"
+  },
+  {
+    "segment": "tests",
+    "slug": "blood",
+    "pageSlug": "tests/blood",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "What can a blood metal test tell you?",
+    "grade": "B"
+  },
+  {
+    "segment": "tests",
+    "slug": "hair-mineral-analysis",
+    "pageSlug": "tests/hair-mineral-analysis",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "Is hair mineral analysis (HTMA) accurate for heavy metals?",
+    "grade": "D"
+  },
+  {
+    "segment": "tests",
+    "slug": "home-food-soil",
+    "pageSlug": "tests/home-food-soil",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "How do I test food/soil for heavy metals at home?",
+    "grade": "NG"
+  },
+  {
+    "segment": "tests",
+    "slug": "interpreting-results",
+    "pageSlug": "tests/interpreting-results",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "Are my heavy metal lab levels harmful (interpreting results)?",
+    "grade": "C"
+  },
+  {
+    "segment": "tests",
+    "slug": "mom-hip-ions",
+    "pageSlug": "tests/mom-hip-ions",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "What can a cobalt or chromium blood test tell you after a metal-on-metal hip?",
+    "grade": "C"
+  },
+  {
+    "segment": "tests",
+    "slug": "provoked-urine",
+    "pageSlug": "tests/provoked-urine",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "Is provoked (DMSA/DMPS challenge) urine testing valid?",
+    "grade": "F"
+  },
+  {
+    "segment": "tests",
+    "slug": "urine",
+    "pageSlug": "tests/urine",
+    "pageType": "test",
+    "kicker": "Testing",
+    "title": "What can a urine metal test tell you?",
+    "grade": "C"
+  }
+]

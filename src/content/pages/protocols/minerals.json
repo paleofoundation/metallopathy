@@ -1,0 +1,86 @@
+{
+  "slug": "minerals",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/minerals",
+  "kicker": "Detox and binders",
+  "title": "What minerals should I supplement while chelating?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A mineral schedule during chelation",
+    "basis": "No qualifying human study was located."
+  },
+  "answerHtml": "<p>No human trial in this corpus tested a mineral supplement schedule during chelation, so no mineral is named as required or as protective. The penicillamine cohort reported adverse reactions, and CDC reported hypocalcemia deaths with disodium EDTA. Those are harm reports, not evidence for a replacement regimen.</p>",
+  "sections": [
+    {
+      "heading": "Related harm reports",
+      "html": "<p> See the EDTA page for the MMWR hypocalcemia deaths and the penicillamine page for the 33 percent adverse-reaction figure. Neither page establishes a supplement plan. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/edta/",
+      "text": "EDTA"
+    },
+    {
+      "href": "/protocols/penicillamine/",
+      "text": "Penicillamine"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5508a3.htm",
+      "text": "CDC MMWR 2006;55(08):204-207"
+    },
+    {
+      "href": "https://pubmed.ncbi.nlm.nih.gov/3361395/",
+      "text": "Shannon et al. 1988, PMID 3361395"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/lead\">Heavy Metal Index: Lead</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What minerals should I supplement while chelating? | Metallopathy",
+    "description": "No trial in this corpus tested a mineral schedule during chelation. The question is not graded.",
+    "canonical": "https://metallopathy.com/protocols/minerals/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What minerals should I supplement while chelating?",
+        "name": "What minerals should I supplement while chelating?",
+        "description": "No trial in this corpus tested a mineral schedule during chelation. The question is not graded.",
+        "url": "https://metallopathy.com/protocols/minerals/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5508a3.htm",
+          "https://pubmed.ncbi.nlm.nih.gov/3361395/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What minerals should I supplement while chelating?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No human trial in this corpus tested a mineral supplement schedule during chelation, so no mineral is named as required or as protective. The penicillamine cohort reported adverse reactions, and CDC reported hypocalcemia deaths with disodium EDTA. Those are harm reports, not evidence for a replacement regimen."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

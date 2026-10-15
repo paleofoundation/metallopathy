@@ -1,0 +1,86 @@
+{
+  "slug": "dmps",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/dmps",
+  "kicker": "Detox and binders",
+  "title": "Does DMPS (unithiol) help arsenicosis or mercury exposure?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "Arsenicosis symptoms or mercury urine levels",
+    "basis": "One small randomized trial and one uncontrolled occupational series."
+  },
+  "answerHtml": "<p>One randomized trial of 21 adults with chronic arsenicosis reported an improved clinical score and higher urine arsenic with DMPS. An uncontrolled series in workers exposed to mercurous chloride reported higher urine mercury during treatment than off treatment. The number of workers was not stated in the abstract, so it is not given here. Neither study is a large replication.</p>",
+  "sections": [
+    {
+      "heading": "Studies",
+      "html": "<div class=\"table-wrap\"> <table> <caption>DMPS studies in the evidence table.</caption> <thead> <tr> <th scope=\"col\">Study</th><th scope=\"col\">Design</th><th scope=\"col\">Result</th> </tr> </thead> <tbody> <tr> <td> <a href=\"https://pubmed.ncbi.nlm.nih.gov/11778664/\">Guha Mazumder 2001</a> </td><td> Placebo RCT, 11 versus 10 adults with chronic arsenicosis </td><td> Improved clinical score and increased urine arsenic. doi:10.1081/clt-100108507. PMID 11778664. </td> </tr><tr> <td> <a href=\"https://pubmed.ncbi.nlm.nih.gov/9765315/\">Gonzalez-Ramirez 1998</a> </td><td> Uncontrolled series, workers producing a mercurous chloride skin-bleaching lotion </td><td> Urine mercury 1754, 314, and 173 µg/24 h on treatment versus 106, 48, and 53 µg/24 h off treatment. One worker stopped for intolerance. PMID 9765315. No DOI was listed. </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/dmsa/",
+      "text": "DMSA for arsenicosis"
+    },
+    {
+      "href": "/tests/provoked-urine/",
+      "text": "Provoked urine testing"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1081/clt-100108507",
+      "text": "Guha Mazumder et al. 2001, doi:10.1081/clt-100108507, PMID 11778664"
+    },
+    {
+      "href": "https://pubmed.ncbi.nlm.nih.gov/9765315/",
+      "text": "Gonzalez-Ramirez et al. 1998, PMID 9765315"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/arsenic\">Heavy Metal Index: Arsenic</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does DMPS (unithiol) help arsenicosis or mercury exposure? | Metallopathy",
+    "description": "One small randomized trial in arsenicosis and one uncontrolled series in mercury-exposed workers. Sample size of the worker series was not in the abstract.",
+    "canonical": "https://metallopathy.com/protocols/dmps/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does DMPS (unithiol) help arsenicosis or mercury exposure?",
+        "name": "Does DMPS (unithiol) help arsenicosis or mercury exposure?",
+        "description": "One small randomized trial in arsenicosis and one uncontrolled series in mercury-exposed workers. Sample size of the worker series was not in the abstract.",
+        "url": "https://metallopathy.com/protocols/dmps/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1081/clt-100108507",
+          "https://pubmed.ncbi.nlm.nih.gov/9765315/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does DMPS (unithiol) help arsenicosis or mercury exposure?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "One randomized trial of 21 adults with chronic arsenicosis reported an improved clinical score and higher urine arsenic with DMPS. An uncontrolled series in workers exposed to mercurous chloride reported higher urine mercury during treatment than off treatment. The number of workers was not stated in the abstract, so it is not given here. Neither study is a large replication."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

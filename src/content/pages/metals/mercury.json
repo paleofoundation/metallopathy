@@ -1,0 +1,118 @@
+{
+  "slug": "mercury",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/mercury",
+  "kicker": "Metals",
+  "title": "What does the evidence say about mercury in people?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Methylmercury and neurodevelopment",
+    "basis": "EPA and the ATSDR methylmercury minimal risk level both use a neurodevelopmental basis, and EFSA published a methylmercury tolerable weekly intake. Not graded A, because this corpus does not contain several randomized trials."
+  },
+  "answerHtml": "<p>EPA set a methylmercury oral reference dose of 0.0001 mg/kg/day based on developmental neuropsychological impairment. EFSA set tolerable weekly intakes of 1.3 µg/kg body weight for methylmercury and 4 µg/kg body weight for inorganic mercury. Blood total mercury and blood methylmercury in NHANES 2017 to 2018 are reported below from the saved CDC tables. A hair-to-outcome relationship is established for methylmercury, not for most other substances.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> EPA IRIS lists a methylmercury oral reference dose of 1 x 10^-4 mg/kg/day, last updated 27 July 2001, for developmental neuropsychological impairment. The page shows that value at both the high end and the low end of the BMDL05 range it cites. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73\">EPA IRIS methylmercury</a>. </p><p> EFSA in 2012, recorded in the corpus from the abstract and the 20 December 2012 press release, set a tolerable weekly intake of 1.3 µg/kg body weight for methylmercury and 4 µg/kg body weight for inorganic mercury. <a href=\"https://doi.org/10.2903/j.efsa.2012.2985\">EFSA 2012</a>. </p><p> The corpus records these ATSDR 2024 minimal risk levels as checked against the mercury profile: chronic inhalation 0.3 µg Hg/m3 for elemental mercury; acute oral 2 µg Hg/kg/day for inorganic mercury; intermediate oral 0.01 µg Hg/kg/day for inorganic salts; chronic oral 0.1 µg Hg/kg/day for methylmercury. The profile PDF is not in the saved sources folder. The corpus states the bases as neurodevelopment for methylmercury, kidney effects for inorganic mercury, and neurological effects for elemental vapor. <a href=\"https://www.atsdr.cdc.gov/toxprofiledocs/\">ATSDR toxicological profiles</a>. Absorption fractions in that profile were not re-extracted and are not stated here. </p><p> IARC, as cited by ATSDR 2024 and recorded in the corpus, places methylmercury compounds in Group 2B and metallic and inorganic mercury in Group 3. <a href=\"https://publications.iarc.who.int/76\">IARC volume 58</a>. A WHO drinking-water value for inorganic mercury was not verified and is not stated here. </p>"
+    },
+    {
+      "heading": "Blood mercury in NHANES 2017 to 2018",
+      "html": "<p> Read from the saved CDC tables. Units are µg/L. Total U.S. population. Not toxicity thresholds. </p>  <div class=\"table-wrap\"> <table> <caption>Blood mercury, NHANES 2017 to 2018, total population (µg/L)</caption> <thead> <tr> <th scope=\"col\">Analyte</th><th scope=\"col\">Geometric mean</th><th scope=\"col\">50th</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> Total mercury </td><td> 0.643 (0.577 to 0.715) </td><td> 0.580 (0.490 to 0.690) </td><td> 3.87 (3.41 to 4.61) </td><td> 7513 </td> </tr><tr> <td> Methylmercury </td><td> 0.480 (0.431 to 0.535) </td><td> 0.390 (0.310 to 0.470) </td><td> 3.49 (3.05 to 4.01) </td><td> 7480 </td> </tr> </tbody> </table> </div>"
+    },
+    {
+      "heading": "Hair",
+      "html": "<p> The 2001 ATSDR hair panel agreed that a relationship between hair concentration and a measurable outcome had been established for methylmercury, for example maternal hair and developmental neurological abnormalities in offspring, and only to a limited extent for arsenic, provided external contamination is ruled out. For most substances the panel said the data do not support predicting a health effect from hair. <a href=\"https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html\">ATSDR hair panel summary</a>. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/tuna-mercury/",
+      "text": "How much mercury is in canned tuna?"
+    },
+    {
+      "href": "/questions/amalgam-removal/",
+      "text": "Is it safe to remove amalgam fillings?"
+    },
+    {
+      "href": "/protocols/selenium/",
+      "text": "Selenium"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73",
+      "text": "EPA IRIS, Methylmercury, substance 73"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2012.2985",
+      "text": "EFSA 2012 mercury opinion, doi:10.2903/j.efsa.2012.2985"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiledocs/",
+      "text": "ATSDR toxicological profile index (2024 mercury profile cited in the corpus)"
+    },
+    {
+      "href": "https://publications.iarc.who.int/76",
+      "text": "IARC Monographs volume 58"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html",
+      "text": "ATSDR hair analysis panel, executive summary, December 2001"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/mercury\">Heavy Metal Index: Mercury</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about mercury in people? | Metallopathy",
+    "description": "Methylmercury, inorganic mercury, and elemental mercury: EPA reference dose, EFSA tolerable weekly intakes, ATSDR minimal risk levels, and NHANES blood mercury.",
+    "canonical": "https://metallopathy.com/metals/mercury/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about mercury in people?",
+        "name": "What does the evidence say about mercury in people?",
+        "description": "Methylmercury, inorganic mercury, and elemental mercury: EPA reference dose, EFSA tolerable weekly intakes, ATSDR minimal risk levels, and NHANES blood mercury.",
+        "url": "https://metallopathy.com/metals/mercury/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73",
+          "https://doi.org/10.2903/j.efsa.2012.2985",
+          "https://www.atsdr.cdc.gov/toxprofiledocs/",
+          "https://publications.iarc.who.int/76",
+          "https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about mercury in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EPA set a methylmercury oral reference dose of 0.0001 mg/kg/day based on developmental neuropsychological impairment. EFSA set tolerable weekly intakes of 1.3 µg/kg body weight for methylmercury and 4 µg/kg body weight for inorganic mercury. Blood total mercury and blood methylmercury in NHANES 2017 to 2018 are reported below from the saved CDC tables. A hair-to-outcome relationship is established for methylmercury, not for most other substances."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

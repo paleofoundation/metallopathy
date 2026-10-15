@@ -1,0 +1,77 @@
+{
+  "slug": "chemtrails",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/chemtrails",
+  "kicker": "Other exposures",
+  "title": "Do 'chemtrails'/airborne metals need detox - what removes them?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A measured level for this category",
+    "basis": "No verified measurement or qualifying human study is in this corpus."
+  },
+  "answerHtml": "<p>This corpus contains no human study of metals from aircraft contrails, and no trial of a method that removes such an exposure. Nothing is graded as a treatment. Chelator and binder trials that do exist are about other, specified exposures and are graded on their own pages.</p>",
+  "sections": [
+    {
+      "heading": "What is not available",
+      "html": "<p> No exposure measurement and no removal trial were located. </p><p> Related evidence, where it exists, is on the linked pages. Those pages do not fill this gap. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/what-works/",
+      "text": "What protocol works?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://heavymetalindex.com/health/",
+      "text": "Heavy Metal Index page for this category (context only; figures on that site are not copied here)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/health/\">Heavy Metal Index health pages</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Do 'chemtrails'/airborne metals need detox - what removes them? | Metallopathy",
+    "description": "No human study of metals from aircraft contrails, and no removal method for that exposure, is in this corpus.",
+    "canonical": "https://metallopathy.com/questions/chemtrails/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Do 'chemtrails'/airborne metals need detox - what removes them?",
+        "name": "Do 'chemtrails'/airborne metals need detox - what removes them?",
+        "description": "No human study of metals from aircraft contrails, and no removal method for that exposure, is in this corpus.",
+        "url": "https://metallopathy.com/questions/chemtrails/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://heavymetalindex.com/health/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do 'chemtrails'/airborne metals need detox - what removes them?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This corpus contains no human study of metals from aircraft contrails, and no trial of a method that removes such an exposure. Nothing is graded as a treatment. Chelator and binder trials that do exist are about other, specified exposures and are graded on their own pages."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

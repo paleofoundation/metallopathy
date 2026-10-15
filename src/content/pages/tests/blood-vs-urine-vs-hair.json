@@ -1,0 +1,105 @@
+{
+  "slug": "blood-vs-urine-vs-hair",
+  "segment": "tests",
+  "pageType": "test",
+  "pageSlug": "tests/blood-vs-urine-vs-hair",
+  "kicker": "Testing",
+  "title": "How do I test for heavy metals in my body (blood vs urine vs hair)?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "One specimen for every metal",
+    "basis": "CDC, EFSA, ACMT, and the ATSDR hair panel agree that the specimen depends on the metal. They are agency positions, not randomized trials, so the grade is not A."
+  },
+  "answerHtml": "<p>There is no single test for every metal. Venous whole blood lead is the CDC standard for lead. Urine cadmium, creatinine adjusted, is the marker EFSA used for kidney burden, and urine arsenic has to be speciated or seafood arsenobetaine will dominate the total. Hair can reflect methylmercury exposure. For most other substances, the ATSDR hair panel said a hair level does not predict a health effect.</p>",
+  "sections": [
+    {
+      "heading": "What each specimen can and cannot tell you",
+      "html": "<ul> <li> Blood lead: CDC uses venous whole blood. The 3.5 µg/dL reference value is a population marker for children aged 1 to 5 years, not a toxicity threshold. <a href=\"https://doi.org/10.15585/mmwr.mm7043a4\">MMWR 2021</a>. </li><li> Blood total mercury and blood methylmercury are measured in NHANES. The corpus did not verify a sentence that blood total mercury mainly reflects fish methylmercury, so that interpretation is not stated as fact here. The numbers are on the mercury page. </li><li> Urine cadmium: EFSA&#39;s reference point is 1 µg/g creatinine. <a href=\"https://doi.org/10.2903/j.efsa.2009.980\">EFSA 2009</a>. Unadjusted µg/L percentiles are not that unit. </li><li> Urine arsenic: the saved CDC tables show a 2017 to 2018 total-arsenic 95th percentile of 61.5 µg/L and an inorganic-related-sum 95th percentile of 13.4 µg/L. Arsenobetaine&#39;s 95th percentile was 39.5 µg/L. Total arsenic without speciation mixes in seafood arsenobetaine. </li><li> Hair: the ATSDR panel said prediction of a health effect from hair is not supported for most substances. A relationship was agreed for methylmercury and, to a limited extent, arsenic, if external contamination is ruled out. <a href=\"https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html\">Panel summary</a>. </li><li> ACMT and AACT say not to use hair or nail testing to screen for metal poisoning in people with nonspecific symptoms. <a href=\"https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf\">Choosing Wisely list</a>. </li><li> A primary source for when to use a spot urine versus a 24-hour collection was not captured. This corpus does not state a rule for that choice. </li> </ul>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/tests/hair-mineral-analysis/",
+      "text": "Is hair mineral analysis accurate?"
+    },
+    {
+      "href": "/tests/provoked-urine/",
+      "text": "Is provoked urine testing valid?"
+    },
+    {
+      "href": "/tests/interpreting-results/",
+      "text": "Are my lab levels harmful?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.15585/mmwr.mm7043a4",
+      "text": "CDC MMWR 2021;70(43), doi:10.15585/mmwr.mm7043a4"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2009.980",
+      "text": "EFSA 2009 cadmium opinion, doi:10.2903/j.efsa.2009.980"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html",
+      "text": "ATSDR hair analysis panel executive summary, 2001"
+    },
+    {
+      "href": "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf",
+      "text": "ACMT and AACT Choosing Wisely list (PDF)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/testing/icp-ms\">Heavy Metal Index: ICP-MS testing</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "How do I test for heavy metals in my body (blood vs urine vs hair)? | Metallopathy",
+    "description": "Which specimen answers which question: blood lead, urine cadmium and speciated arsenic, and the limits of hair testing, from CDC, EFSA, ACMT, and the ATSDR hair panel.",
+    "canonical": "https://metallopathy.com/tests/blood-vs-urine-vs-hair/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "How do I test for heavy metals in my body (blood vs urine vs hair)?",
+        "name": "How do I test for heavy metals in my body (blood vs urine vs hair)?",
+        "description": "Which specimen answers which question: blood lead, urine cadmium and speciated arsenic, and the limits of hair testing, from CDC, EFSA, ACMT, and the ATSDR hair panel.",
+        "url": "https://metallopathy.com/tests/blood-vs-urine-vs-hair/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.15585/mmwr.mm7043a4",
+          "https://doi.org/10.2903/j.efsa.2009.980",
+          "https://www.cdc.gov/exposurereport/data_tables.html",
+          "https://www.atsdr.cdc.gov/HAC/hair_analysis/executive_summary.html",
+          "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How do I test for heavy metals in my body (blood vs urine vs hair)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no single test for every metal. Venous whole blood lead is the CDC standard for lead. Urine cadmium, creatinine adjusted, is the marker EFSA used for kidney burden, and urine arsenic has to be speciated or seafood arsenobetaine will dominate the total. Hair can reflect methylmercury exposure. For most other substances, the ATSDR hair panel said a hair level does not predict a health effect."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "folic-acid",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/folic-acid",
+  "kicker": "Detox and binders",
+  "title": "Does folic acid change arsenic methylation?",
+  "grade": {
+    "letter": "A",
+    "title": "Several consistent human randomized trials",
+    "outcome": "Arsenic methylation in urine",
+    "basis": "Gamble 2006 and the FACT trial (Peters 2015, with metabolites in Bozack 2019) are consistent randomized trials. Bozack 2019 is the same trial as Peters 2015, not a third independent trial."
+  },
+  "answerHtml": "<p>Two randomized trials found that folic acid increased the percentage of urinary arsenic excreted as dimethylarsinic acid, a methylation product. In the larger trial, 800 µg/day lowered blood arsenic and 400 µg/day did not. This is evidence about arsenic methylation, not evidence that folic acid removes stored arsenic or treats arsenicosis.</p>",
+  "sections": [
+    {
+      "heading": "Trials",
+      "html": "<div class=\"table-wrap\"> <table> <caption>Folic acid trials with an arsenic outcome. Doses are what the trials used, not a recommendation.</caption> <thead> <tr> <th scope=\"col\">Study</th><th scope=\"col\">Design</th><th scope=\"col\">Result</th> </tr> </thead> <tbody> <tr> <td> <a href=\"https://doi.org/10.1093/ajcn/84.5.1093\">Gamble 2006</a> </td><td> RCT, 12 weeks, 200 folate-deficient adults in Bangladesh </td><td> Urinary percent DMA rose from 72 to 79 percent versus placebo (P&lt;0.0001). PMID 17093162. </td> </tr><tr> <td> <a href=\"https://doi.org/10.1289/ehp.1409396\">Peters 2015 FACT</a> </td><td> RCT, 24 weeks, 622 arsenic-exposed adults in Bangladesh, mostly folate sufficient </td><td> 800 µg/day lowered blood arsenic. 400 µg/day did not. PMID 25978852. </td> </tr><tr> <td> <a href=\"https://doi.org/10.1093/ajcn/nqy148\">Bozack 2019</a> </td><td> Same FACT trial </td><td> Folic acid increased percent DMA, with rebound after stopping. PMID 30590411. Not an independent replication. </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/arsenic/",
+      "text": "Arsenic"
+    },
+    {
+      "href": "/protocols/foods/",
+      "text": "Which foods help detox?"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.1093/ajcn/84.5.1093",
+      "text": "Gamble et al. 2006, doi:10.1093/ajcn/84.5.1093, PMID 17093162"
+    },
+    {
+      "href": "https://doi.org/10.1289/ehp.1409396",
+      "text": "Peters et al. 2015, doi:10.1289/ehp.1409396, PMID 25978852"
+    },
+    {
+      "href": "https://doi.org/10.1093/ajcn/nqy148",
+      "text": "Bozack et al. 2019, doi:10.1093/ajcn/nqy148, PMID 30590411"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/arsenic\">Heavy Metal Index: Arsenic</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does folic acid change arsenic methylation? | Metallopathy",
+    "description": "Two randomized trials, reported in three papers, found that folic acid increased the share of urinary arsenic present as dimethylarsinic acid.",
+    "canonical": "https://metallopathy.com/protocols/folic-acid/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does folic acid change arsenic methylation?",
+        "name": "Does folic acid change arsenic methylation?",
+        "description": "Two randomized trials, reported in three papers, found that folic acid increased the share of urinary arsenic present as dimethylarsinic acid.",
+        "url": "https://metallopathy.com/protocols/folic-acid/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.1093/ajcn/84.5.1093",
+          "https://doi.org/10.1289/ehp.1409396",
+          "https://doi.org/10.1093/ajcn/nqy148"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does folic acid change arsenic methylation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Two randomized trials found that folic acid increased the percentage of urinary arsenic excreted as dimethylarsinic acid, a methylation product. In the larger trial, 800 µg/day lowered blood arsenic and 400 µg/day did not. This is evidence about arsenic methylation, not evidence that folic acid removes stored arsenic or treats arsenicosis."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

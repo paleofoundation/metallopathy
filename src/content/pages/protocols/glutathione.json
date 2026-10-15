@@ -1,0 +1,77 @@
+{
+  "slug": "glutathione",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/glutathione",
+  "kicker": "Detox and binders",
+  "title": "Does glutathione help heavy metal detox/chelation?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "Glutathione and a metal endpoint",
+    "basis": "No qualifying human trial was located."
+  },
+  "answerHtml": "<p>No human trial of glutathione with a metal outcome was located in this corpus. N-acetylcysteine is a different compound. A study of N-acetylcysteine and blood lead is graded C on the N-acetylcysteine page and is not evidence about glutathione. Not graded is not a finding that glutathione has no effect.</p>",
+  "sections": [
+    {
+      "heading": "What was searched",
+      "html": "<p> The corpus records a PubMed search that located the N-acetylcysteine worker study and did not locate a glutathione trial with a metal outcome. <a href=\"https://doi.org/10.3109/15563650.2013.802797\">Kasperczyk 2013, the NAC study</a>. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/nac/",
+      "text": "N-acetylcysteine"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.3109/15563650.2013.802797",
+      "text": "Kasperczyk et al. 2013 (N-acetylcysteine, not glutathione), PMID 23731375"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/\">Heavy Metal Index: metal registry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Does glutathione help heavy metal detox/chelation? | Metallopathy",
+    "description": "No glutathione trial with a metal outcome was located. A separate N-acetylcysteine study in lead workers is graded on its own page.",
+    "canonical": "https://metallopathy.com/protocols/glutathione/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Does glutathione help heavy metal detox/chelation?",
+        "name": "Does glutathione help heavy metal detox/chelation?",
+        "description": "No glutathione trial with a metal outcome was located. A separate N-acetylcysteine study in lead workers is graded on its own page.",
+        "url": "https://metallopathy.com/protocols/glutathione/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.3109/15563650.2013.802797"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Does glutathione help heavy metal detox/chelation?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No human trial of glutathione with a metal outcome was located in this corpus. N-acetylcysteine is a different compound. A study of N-acetylcysteine and blood lead is graded C on the N-acetylcysteine page and is not evidence about glutathione. Not graded is not a finding that glutathione has no effect."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

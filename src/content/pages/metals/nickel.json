@@ -1,0 +1,101 @@
+{
+  "slug": "nickel",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/nickel",
+  "kicker": "Metals",
+  "title": "What does the evidence say about nickel in people?",
+  "grade": {
+    "letter": "B",
+    "title": "At least one good randomized trial, or consistent human evidence from more than one source",
+    "outcome": "Oral nickel, including flare in sensitised people",
+    "basis": "EFSA published a chronic tolerable daily intake and identified oral flare in sensitised people. IARC classifies nickel compounds in Group 1. Not graded A."
+  },
+  "answerHtml": "<p>EFSA in 2020 set a chronic tolerable daily intake of 13 µg nickel per kg body weight per day. Allergic contact dermatitis is the effect EFSA used for oral flare in sensitised people, as recorded from that opinion. EPA&#39;s oral reference dose for soluble nickel salts is 0.02 mg/kg/day, last updated in 1991, and it did not estimate a cancer value.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> EFSA in 2020, recorded in the corpus as checked against the opinion, set a tolerable daily intake of 13 µg/kg body weight per day, replacing a 2015 value of 2.8 µg/kg/day. The corpus records allergic contact dermatitis as the most common effect and systemic eczematous flare after oral exposure in sensitised people as the acute reference-point endpoint. A WHO drinking-water value of 70 µg/L is recorded as cited in that EFSA opinion. <a href=\"https://doi.org/10.2903/j.efsa.2020.6268\">EFSA 2020</a>. </p><p> EPA IRIS, last updated 1 December 1991, lists an oral reference dose of 2 x 10^-2 mg/kg/day for soluble nickel salts, based on decreased body and organ weights. The cancer assessment says the information was reviewed but a value was not estimated. <a href=\"https://iris.epa.gov/ChemicalLanding/&substance_nmbr=271\">EPA IRIS nickel</a>. </p><p> The corpus records ATSDR 2024 inhalation minimal risk levels of 0.0001 mg Ni/m3 (acute) and 0.000003 mg Ni/m3 (intermediate), checked against the 2024 profile, which is not in the saved sources folder. <a href=\"https://www.atsdr.cdc.gov/toxprofiledocs/\">ATSDR toxicological profiles</a>. IARC, as cited there, places nickel compounds in Group 1 and metallic nickel in Group 2B. <a href=\"https://publications.iarc.who.int/120\">IARC volume 100C</a>. Oral absorption details were not re-extracted. </p>"
+    },
+    {
+      "heading": "Urine nickel in NHANES 2017 to 2018",
+      "html": "<p> Read from the saved CDC table. Unadjusted µg/L. Total U.S. population. Not a toxicity threshold. The draft corpus listed a different 95th percentile. That draft row is not used. </p>  <div class=\"table-wrap\"> <table> <caption>Urine nickel, NHANES 2017 to 2018, total population (µg/L)</caption> <thead> <tr> <th scope=\"col\">Geometric mean (95% CI)</th><th scope=\"col\">50th (95% CI)</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> 1.11 (1.03 to 1.21) </td><td> 1.16 (1.03 to 1.26) </td><td> 4.23 (3.75 to 4.70) </td><td> 2791 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/nickel-foods/",
+      "text": "Nickel in cocoa, legumes, and nuts"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2020.6268",
+      "text": "EFSA 2020 nickel opinion, doi:10.2903/j.efsa.2020.6268"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=271",
+      "text": "EPA IRIS, Nickel, soluble salts, substance 271"
+    },
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiledocs/",
+      "text": "ATSDR toxicological profile index (2024 nickel profile cited in the corpus)"
+    },
+    {
+      "href": "https://publications.iarc.who.int/120",
+      "text": "IARC Monographs volume 100C"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/nickel\">Heavy Metal Index: Nickel</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about nickel in people? | Metallopathy",
+    "description": "EFSA nickel tolerable daily intake, EPA oral reference dose, IARC groups, ATSDR inhalation minimal risk levels, and NHANES urine nickel.",
+    "canonical": "https://metallopathy.com/metals/nickel/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about nickel in people?",
+        "name": "What does the evidence say about nickel in people?",
+        "description": "EFSA nickel tolerable daily intake, EPA oral reference dose, IARC groups, ATSDR inhalation minimal risk levels, and NHANES urine nickel.",
+        "url": "https://metallopathy.com/metals/nickel/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.2903/j.efsa.2020.6268",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=271",
+          "https://www.atsdr.cdc.gov/toxprofiledocs/",
+          "https://publications.iarc.who.int/120",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about nickel in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "EFSA in 2020 set a chronic tolerable daily intake of 13 µg nickel per kg body weight per day. Allergic contact dermatitis is the effect EFSA used for oral flare in sensitised people, as recorded from that opinion. EPA's oral reference dose for soluble nickel salts is 0.02 mg/kg/day, last updated in 1991, and it did not estimate a cancer value."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

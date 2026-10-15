@@ -1,0 +1,86 @@
+{
+  "slug": "provoked-urine",
+  "segment": "tests",
+  "pageType": "test",
+  "pageSlug": "tests/provoked-urine",
+  "kicker": "Testing",
+  "title": "Is provoked (DMSA/DMPS challenge) urine testing valid?",
+  "grade": {
+    "letter": "F",
+    "title": "Human evidence of no benefit, or of harm",
+    "outcome": "Provoked urine as a test for metal poisoning",
+    "basis": "ACMT states that the test is not reliable and has been associated with harm. That is evidence against the claimed use, not a finding that chelators never change urine metals."
+  },
+  "answerHtml": "<p>ACMT says not to give a chelating agent before a urine metal test. The Choosing Wisely text says chelators increase urinary metals even in healthy people without metal-related disease, and that provoked or challenge urine tests are not a reliable way to diagnose metal poisoning and have been associated with harm. A 2010 ACMT position statement, cited in the corpus, reaches the same conclusion: the practice is not validated, has no demonstrated benefit, and may be harmful.</p>",
+  "sections": [
+    {
+      "heading": "What the statements say",
+      "html": "<p> The saved Choosing Wisely PDF says metals are ubiquitous and that storing some quantity of a metal is not the same as illness. It says administration of a chelator increases urinary excretion even without metal-related disease. <a href=\"https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf\">Choosing Wisely PDF</a>. </p><p> The corpus cites the ACMT position in Journal of Medical Toxicology 2010. <a href=\"https://doi.org/10.1007/s13181-010-0039-0\">doi:10.1007/s13181-010-0039-0</a>. A sentence that unprovoked reference ranges do not apply to provoked samples was marked unverified in the corpus and is not repeated. Reference ranges from ordinary urine should not be assumed to fit a sample taken after a drug. This page does not state a numeric cutoff, because none was verified for provoked samples. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/dmsa/",
+      "text": "DMSA"
+    },
+    {
+      "href": "/protocols/dmps/",
+      "text": "DMPS"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf",
+      "text": "ACMT and AACT Choosing Wisely list"
+    },
+    {
+      "href": "https://doi.org/10.1007/s13181-010-0039-0",
+      "text": "ACMT position statement, doi:10.1007/s13181-010-0039-0, PMID 20354920"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/lead\">Heavy Metal Index: Lead</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Is provoked (DMSA/DMPS challenge) urine testing valid? | Metallopathy",
+    "description": "ACMT says provoked urine metal testing is not reliable for diagnosing poisoning and has been associated with harm.",
+    "canonical": "https://metallopathy.com/tests/provoked-urine/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Is provoked (DMSA/DMPS challenge) urine testing valid?",
+        "name": "Is provoked (DMSA/DMPS challenge) urine testing valid?",
+        "description": "ACMT says provoked urine metal testing is not reliable for diagnosing poisoning and has been associated with harm.",
+        "url": "https://metallopathy.com/tests/provoked-urine/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.acmt.net/wp-content/uploads/2022/09/ChoosingWisely.pdf",
+          "https://doi.org/10.1007/s13181-010-0039-0"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is provoked (DMSA/DMPS challenge) urine testing valid?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ACMT says not to give a chelating agent before a urine metal test. The Choosing Wisely text says chelators increase urinary metals even in healthy people without metal-related disease, and that provoked or challenge urine tests are not a reliable way to diagnose metal poisoning and have been associated with harm. A 2010 ACMT position statement, cited in the corpus, reaches the same conclusion: the practice is not validated, has no demonstrated benefit, and may be harmful."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

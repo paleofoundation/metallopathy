@@ -1,0 +1,77 @@
+{
+  "slug": "jewellery",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/jewellery",
+  "kicker": "Other exposures",
+  "title": "Do jewellery and piercing posts release nickel, lead, or cadmium?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A measured level for this category",
+    "basis": "No verified measurement or qualifying human study is in this corpus."
+  },
+  "answerHtml": "<p>The draft corpus names Murphy and colleagues 2016 (doi:10.5696/2156-9614-6-11.47) among piercing-post papers. That paper is not in the saved sources, so its values are not repeated. No jewellery item is ranked. Nickel allergy and the EFSA intake value are on the nickel page.</p>",
+  "sections": [
+    {
+      "heading": "What is not available",
+      "html": "<p> No release rate was verified from a saved paper. </p><p> Related evidence, where it exists, is on the linked pages. Those pages do not fill this gap. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/nickel/",
+      "text": "Nickel"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.5696/2156-9614-6-11.47",
+      "text": "Murphy et al. 2016 record, doi:10.5696/2156-9614-6-11.47 (not re-extracted)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/products/childrens-jewelry\">Heavy Metal Index: children&#39;s jewelry</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Do jewellery and piercing posts release nickel, lead, or cadmium? | Metallopathy",
+    "description": "A jewellery paper is named in the draft corpus and was not saved. No release number is published.",
+    "canonical": "https://metallopathy.com/questions/jewellery/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Do jewellery and piercing posts release nickel, lead, or cadmium?",
+        "name": "Do jewellery and piercing posts release nickel, lead, or cadmium?",
+        "description": "A jewellery paper is named in the draft corpus and was not saved. No release number is published.",
+        "url": "https://metallopathy.com/questions/jewellery/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.5696/2156-9614-6-11.47"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do jewellery and piercing posts release nickel, lead, or cadmium?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The draft corpus names Murphy and colleagues 2016 (doi:10.5696/2156-9614-6-11.47) among piercing-post papers. That paper is not in the saved sources, so its values are not repeated. No jewellery item is ranked. Nickel allergy and the EFSA intake value are on the nickel page."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

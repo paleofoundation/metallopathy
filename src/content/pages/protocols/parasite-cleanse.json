@@ -1,0 +1,77 @@
+{
+  "slug": "parasite-cleanse",
+  "segment": "protocols",
+  "pageType": "protocol",
+  "pageSlug": "protocols/parasite-cleanse",
+  "kicker": "Detox and binders",
+  "title": "Should you detox heavy metals before/with a parasite cleanse?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "Combining a parasite cleanse with metal binding",
+    "basis": "No qualifying human study was located."
+  },
+  "answerHtml": "<p>No human trial in this corpus tested a parasite cleanse together with a metal-binding protocol, or tested the order of the two. The question is not graded. Activated charcoal, which is sometimes named beside that claim, also has no located human metal trial.</p>",
+  "sections": [
+    {
+      "heading": "What not to infer",
+      "html": "<p> Public posts named commercial products next to this question. Those products are not evaluated here, and none is listed as a licensee on the certification register checked for this site. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/protocols/charcoal/",
+      "text": "Activated charcoal"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://pubmed.ncbi.nlm.nih.gov/",
+      "text": "PubMed, the database used for the charcoal and chelator searches recorded in the corpus"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/health/\">Heavy Metal Index health pages</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Should you detox heavy metals before/with a parasite cleanse? | Metallopathy",
+    "description": "No trial of a combined parasite cleanse and metal detox was located.",
+    "canonical": "https://metallopathy.com/protocols/parasite-cleanse/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Should you detox heavy metals before/with a parasite cleanse?",
+        "name": "Should you detox heavy metals before/with a parasite cleanse?",
+        "description": "No trial of a combined parasite cleanse and metal detox was located.",
+        "url": "https://metallopathy.com/protocols/parasite-cleanse/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://pubmed.ncbi.nlm.nih.gov/"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Should you detox heavy metals before/with a parasite cleanse?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No human trial in this corpus tested a parasite cleanse together with a metal-binding protocol, or tested the order of the two. The question is not graded. Activated charcoal, which is sometimes named beside that claim, also has no located human metal trial."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

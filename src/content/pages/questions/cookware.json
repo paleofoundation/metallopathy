@@ -1,0 +1,77 @@
+{
+  "slug": "cookware",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/cookware",
+  "kicker": "Cookware",
+  "title": "Is ceramic / stainless steel cookware free of lead and safe?",
+  "grade": {
+    "letter": "NG",
+    "title": "No qualifying human study in this corpus",
+    "outcome": "A measured level for this category",
+    "basis": "No verified measurement or qualifying human study is in this corpus."
+  },
+  "answerHtml": "<p>This corpus does not contain a verified lead-release measurement for ceramic or stainless steel cookware, so it does not call either material free of lead. The draft notes point at product-occurrence literature that was not saved with this site. Those studies are not quoted.</p>",
+  "sections": [
+    {
+      "heading": "What is not available",
+      "html": "<p> No leach test, no micrograms per liter, and no brand list were verified. </p><p> Related evidence, where it exists, is on the linked pages. Those pages do not fill this gap. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/metals/lead/",
+      "text": "Lead"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://heavymetalindex.com/synthesis/cookware-utensil-metal-leaching-pathway",
+      "text": "Heavy Metal Index page for this category (context only; figures on that site are not copied here)"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/synthesis/cookware-utensil-metal-leaching-pathway\">Heavy Metal Index: cookware leaching</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Is ceramic / stainless steel cookware free of lead and safe? | Metallopathy",
+    "description": "No verified lead-release result for ceramic or stainless cookware is in this corpus.",
+    "canonical": "https://metallopathy.com/questions/cookware/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Is ceramic / stainless steel cookware free of lead and safe?",
+        "name": "Is ceramic / stainless steel cookware free of lead and safe?",
+        "description": "No verified lead-release result for ceramic or stainless cookware is in this corpus.",
+        "url": "https://metallopathy.com/questions/cookware/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://heavymetalindex.com/synthesis/cookware-utensil-metal-leaching-pathway"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Is ceramic / stainless steel cookware free of lead and safe?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This corpus does not contain a verified lead-release measurement for ceramic or stainless steel cookware, so it does not call either material free of lead. The draft notes point at product-occurrence literature that was not saved with this site. Those studies are not quoted."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

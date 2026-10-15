@@ -1,0 +1,110 @@
+{
+  "slug": "symptoms",
+  "segment": "questions",
+  "pageType": "other",
+  "pageSlug": "questions/symptoms",
+  "kicker": "Symptoms",
+  "title": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "One symptom pattern for heavy metal toxicity",
+    "basis": "The sourced material is a set of metal-specific endpoints from agency documents, not a diagnostic checklist study."
+  },
+  "answerHtml": "<p>There is no single symptom list in this corpus that identifies heavy metal toxicity in adults or children. CDC states that no safe blood lead level in children exists. Other sourced endpoints are metal-specific: developmental effects for methylmercury, kidney effects for cadmium, skin and cancer endpoints for inorganic arsenic, and allergic contact dermatitis for nickel. Effects that were not re-checked against a saved source are not listed.</p>",
+  "sections": [
+    {
+      "heading": "Endpoints that were verified",
+      "html": "<ul> <li> Lead, children: CDC states that no safe blood lead level exists and that even low levels cause harm. The reference value is not a toxicity threshold. <a href=\"https://doi.org/10.15585/mmwr.mm7043a4\">MMWR 2021</a>. </li><li> Lead, EFSA 2010: developmental neurotoxicity, raised systolic blood pressure, and chronic kidney disease were the critical effects used for benchmark doses. <a href=\"https://doi.org/10.2903/j.efsa.2010.1570\">doi:10.2903/j.efsa.2010.1570</a>. </li><li> Methylmercury: EPA&#39;s reference dose is based on developmental neuropsychological impairment. The corpus records the ATSDR chronic oral minimal risk level basis as neurodevelopmental effects. </li><li> Inorganic mercury: the corpus records renal effects as the ATSDR minimal-risk-level basis. Elemental vapor: neurological effects, including tremor and erethism, as the inhalation basis. </li><li> Inorganic arsenic: EFSA 2024 used skin cancer as the critical endpoint. EPA&#39;s 2025 reference dose uses ischemic heart disease and type 2 diabetes. IARC Group 1 covers arsenic and inorganic arsenic compounds. </li><li> Cadmium: EFSA used kidney tubular dysfunction. EPA&#39;s reference dose uses proteinuria. </li><li> Nickel: the corpus records allergic contact dermatitis as the most common effect, and oral flare in sensitised people as the EFSA acute endpoint. </li><li> Chromium(VI): EPA describes it as carcinogenic to humans by inhalation and likely carcinogenic by the oral route. A longer symptom list from the 2012 profile was marked unverified and is not copied. </li> </ul>"
+    },
+    {
+      "heading": "What is not listed",
+      "html": "<p> Brain fog, a toddler behavior checklist, and a general detox symptom set were not outcomes in these documents. Cobalt systemic case descriptions and aluminum dialysis syndromes were marked unverified in the corpus and are not restated. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/brain-fog/",
+      "text": "Brain fog"
+    },
+    {
+      "href": "/tests/interpreting-results/",
+      "text": "Interpreting lab results"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://doi.org/10.15585/mmwr.mm7043a4",
+      "text": "CDC MMWR 2021;70(43), doi:10.15585/mmwr.mm7043a4"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2010.1570",
+      "text": "EFSA 2010 lead, doi:10.2903/j.efsa.2010.1570"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73",
+      "text": "EPA IRIS methylmercury"
+    },
+    {
+      "href": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=278",
+      "text": "EPA IRIS inorganic arsenic"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2009.980",
+      "text": "EFSA 2009 cadmium, doi:10.2903/j.efsa.2009.980"
+    },
+    {
+      "href": "https://doi.org/10.2903/j.efsa.2020.6268",
+      "text": "EFSA 2020 nickel, doi:10.2903/j.efsa.2020.6268"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/health/\">Heavy Metal Index health pages</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)? | Metallopathy",
+    "description": "Critical effects named by CDC, EFSA, EPA, and ATSDR differ by metal. This corpus does not support one symptom list for heavy metal toxicity.",
+    "canonical": "https://metallopathy.com/questions/symptoms/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?",
+        "name": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?",
+        "description": "Critical effects named by CDC, EFSA, EPA, and ATSDR differ by metal. This corpus does not support one symptom list for heavy metal toxicity.",
+        "url": "https://metallopathy.com/questions/symptoms/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://doi.org/10.15585/mmwr.mm7043a4",
+          "https://doi.org/10.2903/j.efsa.2010.1570",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=73",
+          "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=278",
+          "https://doi.org/10.2903/j.efsa.2009.980",
+          "https://doi.org/10.2903/j.efsa.2020.6268"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What are the symptoms of heavy metal toxicity (adults, kids, toddlers)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There is no single symptom list in this corpus that identifies heavy metal toxicity in adults or children. CDC states that no safe blood lead level in children exists. Other sourced endpoints are metal-specific: developmental effects for methylmercury, kidney effects for cadmium, skin and cancer endpoints for inorganic arsenic, and allergic contact dermatitis for nickel. Effects that were not re-checked against a saved source are not listed."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

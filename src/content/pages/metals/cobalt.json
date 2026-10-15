@@ -1,0 +1,109 @@
+{
+  "slug": "cobalt",
+  "segment": "metals",
+  "pageType": "metal",
+  "pageSlug": "metals/cobalt",
+  "kicker": "Metals",
+  "title": "What does the evidence say about cobalt in people?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "A clinical blood-cobalt threshold",
+    "basis": "One European opinion gives a range rather than an exact threshold, and it states that systemic critical values are not established. Population percentiles are descriptive."
+  },
+  "answerHtml": "<p>ATSDR&#39;s October 2024 profile sets an acute oral minimal risk level of 0.03 mg cobalt/kg/day and an intermediate oral level of 0.02 mg/kg/day. For metal-on-metal hips, SCENIHR said a whole-blood cobalt level for clinical concern was expected inside 2 to 7 µg/L and that the exact level was not determined. Critical values for systemic effects after those implants were not established.</p>",
+  "sections": [
+    {
+      "heading": "Reference values",
+      "html": "<p> The saved ATSDR profile is dated October 2024. The acute oral minimal risk level of 0.03 mg Co/kg/day and the intermediate oral minimal risk level of 0.02 mg Co/kg/day were read from that file. The corpus also records inhalation minimal risk levels from the same profile: acute 0.0003 mg/m3, intermediate 0.00008 mg/m3, and chronic 0.0001 mg/m3. It records that WHO has no drinking-water guideline value for cobalt. <a href=\"https://www.atsdr.cdc.gov/toxprofiles/tp33.pdf\">ATSDR cobalt profile</a>. </p><p> IARC 2023 groupings recorded in the corpus as checked against volume 131: cobalt metal without tungsten carbide, and soluble cobalt(II) salts, Group 2A; cobalt(II) oxide Group 2B; cobalt(II,III) oxide, cobalt(II) sulfide, and other cobalt(II) compounds Group 3. <a href=\"https://publications.iarc.who.int/618\">IARC volume 131</a>. The corpus notes that cobalt is essential only as part of vitamin B12. Absorption wording beyond that was not re-extracted. </p>"
+    },
+    {
+      "heading": "Metal-on-metal hips",
+      "html": "<p> SCENIHR in 2014 said screening should use whole blood, with cobalt as the reference substance. It said the threshold for clinical concern was expected within 2 to 7 µg/L cobalt in whole blood and that the exact level still had to be determined. Recommendations were based on local effects. Critical values for systemic effects had not been established. <a href=\"https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf\">SCENIHR 2014</a>. </p><p> The MHRA medical device alert MDA/2017/018, retrieved for this site, says there is no agreed whole-blood metal threshold that predicts outcome or mandates revision. It says rising blood metal levels may indicate potential for soft-tissue reaction, and that imaging should carry more weight than an isolated blood metal level. A figure of 7 ppb appears in the draft corpus but was not in the alert page retrieved here, so it is not stated as fact. <a href=\"https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients\">MHRA MDA/2017/018</a>. </p>"
+    },
+    {
+      "heading": "NHANES 2017 to 2018",
+      "html": "<div class=\"table-wrap\"> <table> <caption>Cobalt, NHANES 2017 to 2018, total population (µg/L). Read from the saved CDC tables.</caption> <thead> <tr> <th scope=\"col\">Analyte</th><th scope=\"col\">Geometric mean (95% CI)</th><th scope=\"col\">50th</th><th scope=\"col\">95th (95% CI)</th><th scope=\"col\">n</th> </tr> </thead> <tbody> <tr> <td> Blood cobalt </td><td> 0.173 (0.167 to 0.180) </td><td> 0.160 (0.150 to 0.160) </td><td> 0.430 (0.380 to 0.480) </td><td> 3520 </td> </tr><tr> <td> Urine cobalt </td><td> 0.424 (0.398 to 0.451) </td><td> 0.437 (0.412 to 0.451) </td><td> 1.61 (1.37 to 1.83) </td><td> 2808 </td> </tr> </tbody> </table> </div>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/metal-on-metal-hips/",
+      "text": "Metal-on-metal hip implants"
+    },
+    {
+      "href": "/tests/mom-hip-ions/",
+      "text": "Cobalt and chromium blood tests"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.atsdr.cdc.gov/toxprofiles/tp33.pdf",
+      "text": "ATSDR Toxicological Profile for Cobalt, October 2024"
+    },
+    {
+      "href": "https://publications.iarc.who.int/618",
+      "text": "IARC Monographs volume 131"
+    },
+    {
+      "href": "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf",
+      "text": "SCENIHR opinion on metal-on-metal joint replacements, 2014"
+    },
+    {
+      "href": "https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients",
+      "text": "MHRA MDA/2017/018"
+    },
+    {
+      "href": "https://www.cdc.gov/exposurereport/data_tables.html",
+      "text": "CDC National Report data tables"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/metals/cobalt\">Heavy Metal Index: Cobalt</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "What does the evidence say about cobalt in people? | Metallopathy",
+    "description": "ATSDR 2024 cobalt minimal risk levels, IARC groupings, NHANES blood and urine cobalt, and the SCENIHR range used after metal-on-metal hips.",
+    "canonical": "https://metallopathy.com/metals/cobalt/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "What does the evidence say about cobalt in people?",
+        "name": "What does the evidence say about cobalt in people?",
+        "description": "ATSDR 2024 cobalt minimal risk levels, IARC groupings, NHANES blood and urine cobalt, and the SCENIHR range used after metal-on-metal hips.",
+        "url": "https://metallopathy.com/metals/cobalt/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.atsdr.cdc.gov/toxprofiles/tp33.pdf",
+          "https://publications.iarc.who.int/618",
+          "https://health.ec.europa.eu/system/files/2016-11/scenihr_o_042_0.pdf",
+          "https://www.gov.uk/drug-device-alerts/all-metal-on-metal-mom-hip-replacements-updated-advice-for-follow-up-of-patients",
+          "https://www.cdc.gov/exposurereport/data_tables.html"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What does the evidence say about cobalt in people?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "ATSDR's October 2024 profile sets an acute oral minimal risk level of 0.03 mg cobalt/kg/day and an intermediate oral level of 0.02 mg/kg/day. For metal-on-metal hips, SCENIHR said a whole-blood cobalt level for clinical concern was expected inside 2 to 7 µg/L and that the exact level was not determined. Critical values for systemic effects after those implants were not established."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

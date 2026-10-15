@@ -1,0 +1,81 @@
+{
+  "slug": "pregnancy",
+  "segment": "questions",
+  "pageType": "category",
+  "pageSlug": "questions/pregnancy",
+  "kicker": "Pregnancy",
+  "title": "Are heavy metals in prenatal vitamins / during pregnancy a concern?",
+  "grade": {
+    "letter": "C",
+    "title": "Small, uncontrolled, or single-source human evidence",
+    "outcome": "New dental amalgam in pregnancy",
+    "basis": "One FDA recommendation lists pregnancy among higher-risk groups. It is not a randomized trial of removal."
+  },
+  "answerHtml": "<p>FDA recommends that pregnant people, people planning pregnancy, and nursing parents avoid getting dental amalgam when possible and appropriate. This corpus does not contain a verified metal measurement for prenatal vitamins, so vitamin products are not graded and no brand is named. Methylmercury guidance values are on the mercury page.</p>",
+  "sections": [
+    {
+      "heading": "Amalgam",
+      "html": "<p> The 24 September 2020 FDA statement lists pregnant women and their developing fetuses, women planning to become pregnant, and nursing women and their newborns and infants. FDA is not recommending removal of existing amalgam that is in good condition unless removal is considered medically necessary. <a href=\"https://www.fda.gov/news-events/press-announcements/fda-issues-recommendations-certain-high-risk-groups-regarding-mercury-containing-dental-amalgam\">FDA statement</a>. </p>"
+    }
+  ],
+  "related": [
+    {
+      "href": "/questions/amalgam-removal/",
+      "text": "Removing amalgam fillings"
+    },
+    {
+      "href": "/metals/mercury/",
+      "text": "Mercury"
+    }
+  ],
+  "sources": [
+    {
+      "href": "https://www.fda.gov/news-events/press-announcements/fda-issues-recommendations-certain-high-risk-groups-regarding-mercury-containing-dental-amalgam",
+      "text": "FDA press announcement, 24 September 2020, dental amalgam"
+    }
+  ],
+  "heavyMetalIndexHtml": "<p> <a href=\"https://heavymetalindex.com/products/supplements-vitamin-mineral\">Heavy Metal Index: vitamin and mineral supplements</a>. This Heavy Metal Index URL returned HTTP 200 on 15 October 2026. Figures on this page are not copied from that index. They come from the sources named above.\n</p>",
+  "buyHtml": "<p>\nThe Heavy Metal Tested and Certified public register listed no licensees on 15 October 2026. That page reported 0 certified brands and 0 certified products, and it stated that no brand has completed the three-lot baseline. A specimen layout on the register is an illustration, not a licensee. This page does not name or rank any brand.\n</p> <p>\nThe program states that certification is a measurement of a product against a published limit, not a statement that the product is safe. If a licensee is later listed for this category, it will be on the register.\n</p> <ul> <li><a href=\"https://heavymetalcertified.com/\">Heavy Metal Tested and Certified</a></li> <li><a href=\"https://heavymetalcertified.com/brands\">Public register of licensees</a></li> </ul>",
+  "footnote": "This page summarizes cited documents. It does not diagnose or prescribe. Reviewed 15 October 2026.",
+  "seo": {
+    "metaTitle": "Are heavy metals in prenatal vitamins / during pregnancy a concern? | Metallopathy",
+    "description": "FDA lists pregnancy among groups for whom it recommends avoiding new dental amalgam. Prenatal vitamin metal levels were not verified.",
+    "canonical": "https://metallopathy.com/questions/pregnancy/",
+    "ogType": "article",
+    "dateModified": "2026-10-15"
+  },
+  "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "MedicalWebPage",
+        "headline": "Are heavy metals in prenatal vitamins / during pregnancy a concern?",
+        "name": "Are heavy metals in prenatal vitamins / during pregnancy a concern?",
+        "description": "FDA lists pregnancy among groups for whom it recommends avoiding new dental amalgam. Prenatal vitamin metal levels were not verified.",
+        "url": "https://metallopathy.com/questions/pregnancy/",
+        "dateModified": "2026-10-15",
+        "isBasedOn": [
+          "https://www.fda.gov/news-events/press-announcements/fda-issues-recommendations-certain-high-risk-groups-regarding-mercury-containing-dental-amalgam"
+        ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Metallopathy",
+          "url": "https://metallopathy.com/"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Are heavy metals in prenatal vitamins / during pregnancy a concern?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "FDA recommends that pregnant people, people planning pregnancy, and nursing parents avoid getting dental amalgam when possible and appropriate. This corpus does not contain a verified metal measurement for prenatal vitamins, so vitamin products are not graded and no brand is named. Methylmercury guidance values are on the mercury page."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
